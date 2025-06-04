@@ -1,1 +1,1 @@
-# Scientific-Knowledge-Transfer-with-LLMs-Predicting-Methods-Across-Disciplines
+# Scientific-Knowledge-Transfer-with-LLMs-Recommending-Methods-Across-Disciplines
