@@ -1,0 +1,1956 @@
+method,GPT,Claude,Gemini
+10-fold cross-validation,No,Yes,Yes
+1D convolution neural network (CNN),Yes,Yes,Yes
+1D-CNN-GRU,Yes,Yes,Yes
+2D modified Weibull-type approach,No,No,No
+2D-based networks,No,Yes,Yes
+3D Dual-CycleGAN,Yes,Yes,No
+3D Gaussian splatting,Yes,Yes,Yes
+3D ResNet algorithm,Yes,Yes,Yes
+3D convolution layer,Yes,Yes,Yes
+3D convolution neural network (3DCNN),Yes,Yes,Yes
+3D convolutional neural network (CNN),Yes,Yes,Yes
+3D multi-view learning,Yes,Yes,Yes
+3D-CNN-GRU,Yes,Yes,Yes
+3DU-Net,Yes,Yes,Yes
+"3P-CBiLSTM (three-phase hybrid model combining TMGWO, BOHB, and CBiLSTM)",No,Yes,No
+5-fold cross-validation,No,Yes,Yes
+ACmix,Yes,No,Yes
+AE,Yes,Yes,Yes
+AF2,Yes,Yes,Yes
+AF3,No,No,No
+AI algorithms,No,Yes,Yes
+AI algorithms for patient risk classification,No,Yes,Yes
+AI methods,No,No,No
+AI modeling,No,Yes,No
+AI software for prediction of response heterogeneity,No,No,Yes
+AI technology for dosimetry calculations,No,Yes,Yes
+AI technology for dosimetry calculations with customized phantoms,No,No,Yes
+AI tools to predict and mitigate treatment-related adverse events,No,Yes,Yes
+AI vision for accurate pesticide application,No,No,Yes
+AI vision systems,No,Yes,Yes
+AI-assisted human (AI-H) optical diagnosis,No,No,Yes
+AI-assisted tumor characterization,No,Yes,Yes
+AI-driven learning analytics,No,Yes,Yes
+AI-driven robotics,No,Yes,Yes
+AI-driven techniques,No,No,No
+AI-enabled crop health monitoring,No,Yes,Yes
+AI-powered tools,No,No,No
+ANFIS,Yes,Yes,Yes
+ANFIS model,Yes,Yes,Yes
+ANN,Yes,Yes,Yes
+ANN (Artificial Neural Networks),Yes,Yes,Yes
+ANN model,Yes,Yes,Yes
+ANOVA,No,Yes,No
+ARIMA regressors,No,Yes,Yes
+Absolute positional encoding (APE),Yes,Yes,Yes
+Abstract Syntax Tree-based (AST-based) deep learning models,Yes,Yes,Yes
+Actor networks,Yes,Yes,Yes
+AdaBoost,Yes,Yes,Yes
+AdaBoost (ADA),Yes,Yes,Yes
+AdaBoost or Adaptive Boosting (ADB),Yes,Yes,Yes
+Adaboost,Yes,Yes,Yes
+Adam,Yes,Yes,Yes
+Adam optimizer,Yes,Yes,Yes
+Adaptive Galactic Swarm Optimization (AGSO),No,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,No
+Adaptive Neuro-Fuzzy Inference System (ANFIS),Yes,Yes,Yes
+Adaptive Segmentation enhanced Asynchronous Federated Learning (AS-AFL),No,No,No
+Adaptively Mutually Boosted Attention (Ada-MBA) layers,No,No,No
+AlexNet,Yes,Yes,Yes
+AlexNet CNN,Yes,Yes,Yes
+Alexnet,Yes,Yes,Yes
+AlphaFold,Yes,Yes,Yes
+AlphaFold (AF),Yes,Yes,Yes
+AlphaFold2,Yes,Yes,Yes
+AlphaFold3,No,No,No
+Analysis of variance (ANOVA),No,Yes,No
+Analytical Hierarchy Process (AHP),No,Yes,No
+Ant Colony Optimization,No,Yes,Yes
+Aquila Optimizer (AO),Yes,Yes,Yes
+Aquila optimizer,Yes,No,Yes
+Artificial Intelligence,No,Yes,Yes
+Artificial Intelligence (AI),No,Yes,Yes
+Artificial Intelligence (AI) techniques,No,Yes,Yes
+Artificial Neural Network (ANN),Yes,Yes,Yes
+Artificial Neural Networks,Yes,Yes,Yes
+Artificial Neural Networks (ANN),Yes,Yes,Yes
+Artificial Neural Networks (ANNs),Yes,Yes,Yes
+Artificial intelligence,No,Yes,Yes
+Artificial intelligence (AI),No,Yes,Yes
+Artificial intelligence (AI) models,No,Yes,Yes
+Artificial intelligence (AI)-based translation software models,No,Yes,Yes
+Artificial neural network (ANN),Yes,Yes,Yes
+Attention U-Net with modified ResNet50 backbone,Yes,Yes,Yes
+Attention mechanism,Yes,Yes,Yes
+Attention mechanism in Transformers,Yes,Yes,Yes
+Attention mechanisms,Yes,Yes,Yes
+Attention technique,Yes,Yes,Yes
+Automatic Speech Recognition (ASR),No,Yes,Yes
+BARD chatbots,No,No,Yes
+BERT family structures,No,Yes,Yes
+BERTopic modeling,Yes,Yes,Yes
+Back Propagation Neural Network,Yes,Yes,Yes
+Backstepping Controller (BSC),No,Yes,No
+Bag of Words (BoW) with logistic regression,Yes,Yes,Yes
+Bagging,Yes,Yes,Yes
+Bagging (BG),Yes,Yes,Yes
+Bagging method,Yes,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,Yes
+Bagging regressor,Yes,Yes,Yes
+Bard,No,No,Yes
+Bard (Gemini),No,Yes,Yes
+Base-CNN,No,No,No
+Basic IB,No,No,No
+Bayesian Network (BN),Yes,Yes,Yes
+Bayesian Optimization (BO),Yes,Yes,Yes
+Bayesian method (PRS-CSx),Yes,No,Yes
+Bayesian multilevel models,Yes,Yes,Yes
+Bayesian optimization,Yes,Yes,Yes
+Bayesian optimization method,Yes,Yes,Yes
+Bayesian optimized active recommender system (BOARS),No,No,Yes
+Bayesian ridge regression,Yes,Yes,Yes
+Bi-LSTM model,Yes,Yes,Yes
+Bidirectional Long Short-Term Memory (Bi-LSTM),Yes,Yes,Yes
+Bidirectional Long Short-Term Memory networks (BiLSTM),Yes,Yes,Yes
+Bio-Clinical-BERT,Yes,Yes,No
+BioClinicalBERT,Yes,Yes,Yes
+BioNER-LLaMA,No,No,Yes
+Border-line SMOTE,Yes,Yes,Yes
+Boruta,Yes,Yes,Yes
+Boruta algorithm,Yes,Yes,Yes
+BorutaShap,No,Yes,Yes
+C2fGhost module,No,No,No
+CE,No,No,No
+CFS algorithm,Yes,Yes,Yes
+CGA-based mixup fusion scheme,No,No,Yes
+CLIP model adaptation,Yes,Yes,Yes
+CNN,Yes,Yes,Yes
+CNN architectures,Yes,Yes,Yes
+CNN-GRU,Yes,Yes,Yes
+CNN-LSTM,Yes,Yes,Yes
+CNN-LSTM models,Yes,Yes,Yes
+CNN-based one-dimensional deep learning model with spectral attention module,Yes,Yes,Yes
+CNNs,Yes,Yes,Yes
+CNN–LSTM–TF hybrid model,Yes,Yes,Yes
+CSP,No,Yes,Yes
+CSSP,No,No,No
+Canny Edge Detection (CED) algorithm,No,Yes,Yes
+Canonical correlation analysis,Yes,Yes,Yes
+Capiola multivariate probability distribution functions,No,No,No
+Capiola's method,No,No,No
+Cascaded Attention Perceptron (CAP),No,No,No
+CatBoost,Yes,Yes,Yes
+Chain-of-Thought (CoT),Yes,Yes,Yes
+Channel Dependent (CD) strategy,No,No,No
+Channel Independent (CI) strategy,No,No,No
+Chat GPT 4,No,Yes,Yes
+Chat Generative Pre-Trained Transformer (ChatGPT-3.0),No,No,Yes
+Chat Generative Pre-Trained Transformer (ChatGPT-3.5),No,Yes,Yes
+Chat Generative Pre-Trained Transformer (ChatGPT-4.0),No,No,Yes
+Chat Generative Pre-trained Transformer (ChatGPT) powered by GPT-4,Yes,Yes,Yes
+ChatGPT,No,Yes,Yes
+ChatGPT 3.5,No,Yes,Yes
+ChatGPT 4.0,No,No,Yes
+"ChatGPT family of models (GPT-3.5, GPT-4)",Yes,Yes,Yes
+ChatGPT-3.5,No,No,Yes
+ChatGPT-4,No,No,Yes
+ChatGPT-enhanced instructional design,No,No,No
+ChatGPT4-embedded writing system,No,No,No
+ChatSonic,No,No,Yes
+Chatbots based on LLMs,No,Yes,Yes
+Classification and Regression Tree (CART),Yes,Yes,Yes
+CodeReviewer,No,Yes,No
+Collective Constitutional AI (CCAI),No,No,Yes
+Content-Guided Attention (CGA),No,No,Yes
+Continuously Restricted Boltzmann Machine with Deep Belief Network (CRBM-DBN),No,Yes,No
+ConvNeXt,Yes,Yes,Yes
+Convolution Neural Network,No,Yes,Yes
+Convolution Neural Networks (CNNs),Yes,Yes,Yes
+Convolutional Autoencoder,Yes,Yes,Yes
+Convolutional Neural Network (CNN),Yes,Yes,Yes
+Convolutional Neural Network architectures,Yes,Yes,Yes
+Convolutional Neural Networks (CNN),Yes,Yes,Yes
+Convolutional Neural Networks (CNNs),Yes,Yes,Yes
+Convolutional neural networks (CNN),Yes,Yes,Yes
+Convolutional vision Transformer (CvT),Yes,Yes,Yes
+Cost-Sensitive Learning (CSL),Yes,Yes,Yes
+Critic networks,Yes,Yes,Yes
+Cross-Attention (CA),Yes,Yes,Yes
+Cross-view contrastive learning (CL),Yes,Yes,Yes
+Custom Convolutional Neural Network (Custom-CNN),No,Yes,Yes
+DA-TransUNet,Yes,Yes,Yes
+DBN,Yes,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,Yes
+DBSCAN,Yes,Yes,Yes
+DCNN-9,No,No,No
+DL features,No,Yes,No
+DL-based ligand docking (DLLD),No,Yes,Yes
+DL-ensemble,No,Yes,Yes
+DNN-based IB methods,No,Yes,Yes
+DNNs,Yes,Yes,Yes
+DRL-MDNN framework,No,Yes,No
+DT,Yes,Yes,Yes
+DWT+PCA,No,Yes,Yes
+Data analytic ML systems,No,No,Yes
+Data mining,No,Yes,Yes
+Debate: Understanding DNNs with IB,No,Yes,No
+Decentralized Partially Observable Markov Decision Process (Dec-POMDP),Yes,Yes,Yes
+Decision Tree,Yes,Yes,Yes
+Decision Tree (DT),Yes,Yes,Yes
+Decision Tree classifier,Yes,Yes,Yes
+Decision Trees,Yes,Yes,Yes
+Decision Trees (DT),Yes,Yes,Yes
+Deep Convolutional Neural Network (DCNN),Yes,Yes,Yes
+Deep Convolutional Neural Networks (AlexNet),Yes,Yes,Yes
+Deep Convolutional Neural Networks (DCNN),Yes,Yes,Yes
+Deep Learning,Yes,Yes,Yes
+Deep Learning (DL),Yes,Yes,Yes
+Deep Learning (DL) techniques,No,Yes,Yes
+Deep Learning and Image Processing (DLIP),No,No,No
+Deep Learning-based architectures,No,Yes,Yes
+Deep Neural Networks,Yes,Yes,Yes
+Deep Reinforcement Learning (DRL),Yes,Yes,Yes
+Deep learning,Yes,Yes,Yes
+Deep learning (DL),Yes,Yes,Yes
+Deep learning-based systems,No,Yes,Yes
+Deep learning–based diagnostic systems,No,Yes,Yes
+DeepKEGG,No,Yes,No
+DeepLIFT,Yes,Yes,Yes
+DeepMind's AlphaFold2,Yes,Yes,Yes
+DeiT,Yes,Yes,Yes
+Delphi method,No,Yes,No
+Dempster-Shafer (DS) evidence theory,No,Yes,Yes
+DenseNet,Yes,Yes,Yes
+DenseNet-121,Yes,Yes,Yes
+DenseNet121,Yes,Yes,Yes
+DenseNet161,Yes,Yes,Yes
+DenseNet169,Yes,Yes,Yes
+DenseNet201,Yes,Yes,Yes
+Density-based Spatial Clustering,Yes,Yes,Yes
+Detail-Enhanced Attention Block (DEAB),No,No,Yes
+Detail-Enhanced Attention Network (DEA-Net),No,No,Yes
+Detail-Enhanced Convolution (DEConv),No,No,No
+Diagnostic odds ratio (DOR),No,No,No
+Directed Acyclic Graph-based Long Short-Term Memory (DAG-LSTM),Yes,Yes,Yes
+Domain Self-adaptive Network (DSN),Yes,No,Yes
+Double Critic Deep Deterministic Policy Gradient (DCDDPG),No,No,Yes
+Dual Attention mechanisms,Yes,Yes,Yes
+Dynamic Graph Convolutional Network (DyGCN),Yes,Yes,Yes
+EEG Conformer,No,Yes,Yes
+ESM2 model,Yes,Yes,Yes
+ETC,No,No,No
+EXtreme Gradient Boosting (XGBOOST),Yes,Yes,Yes
+Early Stopping callback,Yes,Yes,Yes
+EchoCLIP,No,No,No
+EchoCLIP-R,No,No,No
+Educational Data Mining (EDM) algorithms,No,Yes,Yes
+Efficient Channel Attention (ECA),Yes,Yes,Yes
+EfficientNet,Yes,Yes,Yes
+EfficientNet-B3,Yes,Yes,Yes
+EfficientNetB0,Yes,Yes,Yes
+EfficientNetv2 architecture,Yes,Yes,Yes
+Elastic net,Yes,Yes,Yes
+ElasticNetCV,Yes,Yes,Yes
+Empirical Orthogonal Functions (EOF) analysis,No,Yes,Yes
+Enhanced Cuckoo Methodology (ECM),No,No,Yes
+Enhanced Jaya Optimization Algorithm (EJOA),No,Yes,Yes
+Ensemble,Yes,Yes,Yes
+Ensemble Deep Convolutional Neural Network (EDCNN),No,Yes,Yes
+Ensemble Learning techniques,Yes,Yes,Yes
+Ensemble Transfer Learning (ETL),No,Yes,Yes
+Ensemble model,Yes,Yes,Yes
+Ensemble-1 (VGG16 and VGG19),No,Yes,Yes
+Ensemble-2 (DenseNet169 and DenseNet201),No,Yes,Yes
+Euclidean index,No,No,No
+Eurygaster Optimization Algorithm (EOA),No,No,Yes
+Explainable AI (XAI) algorithms,No,Yes,Yes
+Explainable AI (XAI) techniques,No,Yes,Yes
+Explainable AI (xAI),Yes,Yes,Yes
+Explainable AI method,No,Yes,Yes
+Explainable Artificial Intelligence (EXAI) methods,No,Yes,Yes
+Explainable Artificial Intelligence (XAI),No,Yes,Yes
+Extra Trees (ET),Yes,Yes,Yes
+Extra Trees Classifier (ETC),Yes,Yes,Yes
+Extreme Gradient Boosting (XGB),Yes,Yes,Yes
+Extreme Gradient Boosting (XGBoost),Yes,Yes,Yes
+F-TOPSIS,No,Yes,Yes
+F-value selection,Yes,No,Yes
+FA-ML technique,No,No,No
+FATCAT,No,No,No
+"FFCA-YOLO (Feature enhancement, Fusion and Context Aware YOLO)",No,Yes,Yes
+FFT,No,Yes,No
+FTransUNet,No,No,No
+Fast Large Margin (FLM),No,No,No
+Faster Score-CAM,Yes,Yes,Yes
+Feature Importance,No,Yes,Yes
+Feature Selection,Yes,Yes,Yes
+Federated learning (FL),Yes,Yes,Yes
+Feed-Forward Neural Network (FFNN),Yes,Yes,Yes
+Feed-forward Neural Network (FNN),Yes,Yes,Yes
+Few-Shot Class-Incremental Learning (FSCIL),Yes,Yes,Yes
+Few-shot,Yes,Yes,Yes
+Fine-grained Direct Preference Optimization (FDPO),No,No,No
+Firefly Algorithm,Yes,Yes,Yes
+Flamingo,Yes,Yes,Yes
+Flan-T5,Yes,Yes,Yes
+Forward Diffusion Noisy Training Module,No,No,No
+Fourier-based data augmentations,No,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,Yes
+Fractional Order Proportional-Integral-Derivative (FOPID) controllers,No,Yes,Yes
+FullMonte,No,No,No
+Fusion Model,No,Yes,Yes
+Fusion Vit (FVit),No,No,Yes
+FusionGrad,No,No,No
+Fuzzy Analytic Hierarchy Process (Fuzzy-AHP),No,Yes,Yes
+Fuzzy Measurement Alternatives and Ranking by Compromise Solution (F-MARCOS),Yes,Yes,Yes
+Fuzzy Stepwise Weight Evaluation Ratio Analysis (F-SWARA),Yes,Yes,Yes
+Fuzzy VIKOR,Yes,Yes,Yes
+GA-BSC,No,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,Yes
+GAI models like ChatGPT,No,No,No
+GAI models like DALL-E,No,No,No
+GAN-based methods,Yes,Yes,Yes
+GAN-based text,No,Yes,Yes
+GBM,Yes,Yes,Yes
+GC,No,No,No
+GNNExplainer,Yes,Yes,Yes
+GPT-3 Playground,No,Yes,No
+GPT-3.5,Yes,Yes,Yes
+GPT-3.5-turbo,Yes,Yes,Yes
+GPT-4,Yes,Yes,Yes
+GPT-4 (Generative Pre-trained Transformer 4),Yes,Yes,Yes
+GPT-4 Turbo (GPT-4 T),Yes,Yes,Yes
+GPT-4 Turbo with Vision (GPT-4TV),No,Yes,Yes
+GPT-4 few-shot learning,Yes,Yes,Yes
+GRU,Yes,Yes,Yes
+Gabor kernels,No,Yes,Yes
+Gabor-Transform (GT),No,Yes,Yes
+Gaidai risk assessment method,No,No,No
+Gated Recurrent Unit (GRU),Yes,Yes,Yes
+Gaussian Naive Bayes,Yes,Yes,Yes
+Gaussian Naïve Bayes,Yes,Yes,Yes
+Gaussian Naïve Bayes (GNB),Yes,Yes,Yes
+Gaussian Process Learning,Yes,Yes,Yes
+Gaussian process regression (GPR),Yes,Yes,Yes
+Gaussian radial basis function kernel Support Vector Regression (SVR),Yes,Yes,Yes
+Gemini 1.5,No,Yes,Yes
+Generalized Linear Model (GLM),No,Yes,Yes
+Generalized Regression-based Neural Networks (G-RNN),No,No,No
+Generative AI models,No,Yes,Yes
+Generative Adversarial Networks (GANs),Yes,Yes,Yes
+Generative Artificial Intelligence (AI),No,Yes,Yes
+Generative Pre-Trained Transformer (GPT)-3.5,Yes,Yes,Yes
+Generative Pre-Trained Transformer (GPT)-4,Yes,Yes,Yes
+Generative Pre-trained Transformer (GPT),Yes,Yes,Yes
+Generative Pre-trained Transformer 3 (GPT-3),Yes,Yes,Yes
+Generative Pre-trained Transformer 4.0 (GPT 4) chatbot (ChatGPT 4.0),Yes,Yes,Yes
+Generative Pre-trained Transformers (GPT),Yes,Yes,Yes
+Generative Pretrained Transformers (GPT) architecture,Yes,Yes,Yes
+Generative artificial intelligence (AI) chatbots,No,Yes,Yes
+Generative artificial intelligence (GAI),No,Yes,Yes
+Genetic Algorithm,Yes,Yes,Yes
+Genetic Algorithm (GA),Yes,Yes,Yes
+Geographically Weighted Random Forest (GW-RF),Yes,Yes,Yes
+GhostConv,No,No,No
+Global Attention Mechanism (GAM),Yes,Yes,Yes
+Global Context Attention (GCA),Yes,Yes,Yes
+Golden Jackal Optimizer,Yes,No,Yes
+Google Gemini,Yes,Yes,Yes
+Google's Bard,No,Yes,Yes
+GoogleNet,Yes,Yes,Yes
+Grad-CAM,Yes,Yes,Yes
+Grad-CAM Explainable Artificial Intelligence (XAI) technique,Yes,Yes,Yes
+Grad-CAM visualization techniques,No,Yes,Yes
+Grad-CAM++,Yes,Yes,Yes
+Gradient Boosted Trees (GBT),Yes,Yes,Yes
+Gradient Boosting,Yes,Yes,Yes
+Gradient Boosting (GB),Yes,Yes,Yes
+Gradient Class Activation Mapping,Yes,Yes,Yes
+Gradient-weighted Class Activation Mapping (Grad-CAM),Yes,Yes,Yes
+Graph Neural Networks (GNNs),Yes,Yes,Yes
+Graph Representation Learning (GRL),Yes,Yes,Yes
+Graph generative structure-aware Transformer (GraphGST),No,Yes,Yes
+Graph neural network (GNN),Yes,Yes,Yes
+Greater Cane Rat Algorithm (GCRA),No,No,No
+Grey Wolf Optimizer (GWO),Yes,Yes,Yes
+Guided Refinement Decoder (GRD),No,No,Yes
+HBA-U-Net architecture,No,Yes,Yes
+HIoU boundary loss function,No,Yes,No
+HKOA,No,No,No
+Harris hawks algorithm (HHA),Yes,Yes,Yes
+Health Equity Assessment of machine Learning performance (HEAL) framework,No,No,Yes
+Hellinger distance-based correlation,No,Yes,Yes
+Heuristic Wing Antfly Optimization (HWAFO),No,No,No
+Hidden Markov Model (HMM),Yes,Yes,Yes
+Hierarchical Agglomerative Clustering,Yes,Yes,Yes
+Hierarchical Block Attention (HBA),No,No,Yes
+Highest Gradient Boosting (HGB),No,No,No
+Hill-RBF,No,Yes,No
+Hippopotamus Optimizer (HO),No,No,No
+Hoffer QST,No,No,No
+Hybrid Shifted Windows Multi-Head Self-Attention module (HSW-MSA),No,Yes,No
+Hybrid anomaly detection systems,Yes,Yes,Yes
+Hyperopt regression models,No,Yes,Yes
+IMFO-KELM,No,No,No
+INC-BSC,No,No,No
+IRP prompting,No,No,No
+IVIF Analytic Hierarchy Process (AHP),No,Yes,Yes
+IVIF Technique for order preference by similarity to ideal solution (TOPSIS),No,No,Yes
+Improved Bi-directional Long Short-Term Memory (IBi-LSTM),Yes,Yes,No
+Improved MobileNet-V3,Yes,Yes,Yes
+Improved Support Vector Machine-Radial Basis Function (ISVM-RBF),No,Yes,No
+Inception V3,Yes,Yes,Yes
+Inception-v3,Yes,Yes,Yes
+InceptionResNetV2,Yes,Yes,Yes
+InceptionV3,Yes,Yes,Yes
+Inceptionv3 architecture,Yes,Yes,Yes
+Information bottleneck (IB),Yes,Yes,Yes
+Informative IB,No,Yes,No
+Instruction tuned Large Vision Language Models (LVLMs),Yes,Yes,Yes
+Integrated Gradients,Yes,Yes,Yes
+Intention,No,No,No
+Intuitionistic fuzzy-based approach,No,Yes,Yes
+Inverse Reinforcement Learning (IRL),Yes,Yes,Yes
+Isolation Forest (IF),Yes,Yes,Yes
+K means algorithm,Yes,Yes,Yes
+K nearest neighbors (KNN),Yes,Yes,Yes
+K-Nearest Neighbor,Yes,Yes,Yes
+K-Nearest Neighbor (KNN),Yes,Yes,Yes
+K-Nearest Neighbours (KNN),Yes,Yes,Yes
+K-Nearest-Neighbors (KNN),Yes,Yes,Yes
+K-fold cross-validation,No,Yes,Yes
+K-means,Yes,Yes,Yes
+K-means SMOTE,Yes,Yes,Yes
+K-means SVM hybrid classifier,No,No,Yes
+K-medoids,Yes,Yes,Yes
+K-nearest neighbor,Yes,Yes,Yes
+K-nearest neighbor (KNN),Yes,Yes,Yes
+K-nearest neighbors,Yes,Yes,Yes
+KNN,Yes,Yes,Yes
+KNN-PSO,No,Yes,Yes
+KSVM,Yes,Yes,Yes
+Kane,No,No,No
+Kaplan-Meier (KM) plotter,No,No,No
+Karmona,No,No,No
+Kepler optimization algorithm (KOA),Yes,No,Yes
+Kernel Density Estimation (KDE),No,Yes,Yes
+L-FFCA-YOLO (lite version of FFCA-YOLO optimized by partial convolution),No,No,No
+L1-regularization,Yes,Yes,Yes
+LASSO,Yes,Yes,Yes
+LASSO regression,Yes,Yes,Yes
+LGBM,Yes,Yes,Yes
+LIME (Local Interpretable Model-agnostic Explanations),Yes,Yes,Yes
+LLAMA 13B,Yes,Yes,Yes
+LLAMA 70B,Yes,Yes,Yes
+LLAMA 7B,Yes,Yes,Yes
+LLaMA-7B,Yes,Yes,Yes
+LR,Yes,Yes,Yes
+LSTM,Yes,Yes,Yes
+LSTM (Long Short-Term Memory),Yes,Yes,Yes
+LSTMs,Yes,Yes,Yes
+Ladas,No,No,No
+Ladybug Beetle Optimization (LBO) algorithm,No,No,Yes
+Ladybug Beetle Optimization-Double Attention Based Multilevel 1-D CNN (LBO-DAM 1-D CNN),No,No,No
+Laplacian of Gaussian filter,No,Yes,Yes
+Large Language Model (LLM),No,Yes,Yes
+Large Language Models,No,Yes,Yes
+Large Language Models (LLM),No,Yes,Yes
+Large Language Models (LLMs),No,Yes,Yes
+Large language models,No,Yes,Yes
+Large language models (LLMs),No,Yes,Yes
+Lasso,Yes,Yes,Yes
+Laws filter,No,No,No
+Learning ML,No,No,No
+Least Squares - Support Vector Machine (LS-SVM),Yes,Yes,Yes
+Level-of-Detail (LOD) solution,No,No,No
+Light Gradient Boosting Machine,Yes,Yes,Yes
+Light Gradient Boosting Machine (LightGBM),Yes,Yes,Yes
+Light Gradient Boosting Method (LGBM),Yes,Yes,Yes
+LightGBM,Yes,Yes,Yes
+Lightweight Context-aware Network (LCNet),No,Yes,Yes
+Linear Discriminant Analysis (LDA),Yes,Yes,Yes
+Linear Keypoints representation for 3D LiDAR point cloud (LinK3D),No,Yes,Yes
+Linear Regression,Yes,Yes,Yes
+Lite-MDC architecture,No,No,No
+Llama,Yes,Yes,Yes
+Llama 2,Yes,Yes,Yes
+Llama 3 70B,Yes,Yes,Yes
+Llama-v2–70B-chat,Yes,Yes,Yes
+Local Interpretable Model-Agnostic Explanations (LIME),Yes,Yes,Yes
+Logistic Regression,Yes,Yes,Yes
+Logistic Regression (LR),Yes,Yes,Yes
+Long Short-Term Memory (LSTM),Yes,Yes,Yes
+Long Short-term Memory (LSTM),Yes,Yes,Yes
+Long short-term memory (LSTM) networks,Yes,Yes,Yes
+M-SVM,Yes,Yes,Yes
+MARCOS (Measurement of Alternatives and Ranking according to COmpromise Solution),No,No,Yes
+MBConv-Finetuned-B0 model,No,Yes,Yes
+MEREC (Method based on the Removal Effects of Criteria),Yes,No,Yes
+MGWR model,No,Yes,Yes
+MI-based disentangled consistency regularization,No,Yes,Yes
+ML approaches,No,Yes,Yes
+MSSDM-RCFF algorithm,No,No,No
+MSSDM-SqueezeNet-JTFDF,No,No,No
+Machine Learning,Yes,Yes,Yes
+Machine Learning (ML),Yes,Yes,Yes
+Machine Learning (ML) techniques,No,Yes,Yes
+Machine Learning for Kids,No,No,No
+Machine learning,Yes,Yes,Yes
+Machine learning (ML) methods,No,Yes,Yes
+Machine learning (ML) models,No,Yes,Yes
+Machine learning (ML) techniques,No,Yes,Yes
+Machine learning models,No,Yes,Yes
+Machine learning-based antimicrobial drug susceptibility testing,No,Yes,Yes
+Machine learning-based pathogen identification technology,No,Yes,Yes
+Mamba deep learning model,No,Yes,No
+Markov decision process,Yes,Yes,Yes
+Markov–FLUS model,No,No,No
+Mask R-CNN,Yes,Yes,Yes
+Mask RCNN,Yes,Yes,Yes
+Maximum Power Point Tracking (MPPT) based on Global Maximum Power Point (GMPP) methodology,No,No,Yes
+Meta Inspired Hawks Fragment Optimization (MIHFO),No,No,No
+Meta-learning,Yes,Yes,Yes
+Microsoft’s Prometheus,Yes,Yes,Yes
+Midjourney,No,Yes,Yes
+Minimum Cumulative Resistance (MCR) model,No,No,Yes
+Mix Transformer encoders - MiT-B0,Yes,Yes,Yes
+Mix Transformer encoders - MiT-B3,Yes,Yes,Yes
+Mix Transformer encoders - MiT-B5,Yes,Yes,Yes
+MixFormer trackers,Yes,Yes,Yes
+Mixed Attention Module (MAM),Yes,No,Yes
+Mixtral 8x7b,No,Yes,Yes
+MobileNet,Yes,Yes,Yes
+MobileNetV2,Yes,Yes,Yes
+MobileNetV3,Yes,Yes,Yes
+MobileNetv3,Yes,Yes,Yes
+Monte Carlo (MC) simulation,No,Yes,Yes
+Morphological Spatial Pattern Analysis (MSPA),No,Yes,No
+Multi-Criteria Decision Making (MCDM),No,Yes,No
+Multi-Model Fusion Network (MMF-Net),No,No,Yes
+Multi-Objective Hippopotamus Optimizer (MOHO),No,No,No
+Multi-View clustering via matrix factorization,Yes,Yes,Yes
+Multi-class N-pair Loss Objective,Yes,Yes,Yes
+Multi-kernel Depthwise separable Convolutions (MDsConv),No,Yes,No
+Multi-scale Feed-forward Layer (MFL),No,No,No
+Multi-source and Multi-modal Cross-network Deep Network Embedding (M 2 CDNE),Yes,Yes,No
+Multi-source and Multi-modal Cross-network Deep Network Embedding (M2CDNE),Yes,No,No
+Multilayer Perceptron,Yes,Yes,Yes
+Multilayer Perceptron Neural Network (MLP-NN),Yes,Yes,Yes
+Multilayer perception (MLP),No,No,Yes
+Multilayer perceptron neuron network (MLPNN),Yes,Yes,Yes
+Multimodal LLMs,Yes,Yes,Yes
+Multimodal Naïve Bayes (MNB),No,No,Yes
+NASNet,Yes,Yes,Yes
+NLP classification models,No,Yes,Yes
+NN-based replacement models,Yes,Yes,Yes
+NSGA-II,No,Yes,Yes
+NT-Xent loss function,Yes,Yes,Yes
+Naive Bayes,Yes,Yes,Yes
+Naive Bayes (NB),Yes,Yes,Yes
+Nallasamy,No,No,No
+Natural Language Processing (NLP) algorithms,No,Yes,Yes
+NavGPT,No,No,No
+Naïve Bayes,Yes,Yes,Yes
+Naïve Bayes (NB),Yes,Yes,Yes
+Naïve Bayes algorithm,Yes,Yes,Yes
+Neighborhood Component Analysis (NCA),Yes,Yes,Yes
+Neural Collapse (NC) theory,Yes,Yes,Yes
+Neural Network,Yes,Yes,Yes
+Neural Networks,Yes,Yes,Yes
+Neural Networks (NN),Yes,Yes,Yes
+Node embedding (NE),Yes,Yes,Yes
+Node2Vec algorithm,Yes,Yes,Yes
+NoiseGrad,No,No,No
+"Non-Adoption, Abandonment, Scale-up, Spread and Sustainability (NASSS) model",No,No,No
+Object Detection,Yes,Yes,Yes
+Occlusion Perception Attention Module (OAM),No,No,Yes
+OpenAI's ChatGPT 3.5,No,Yes,Yes
+OpenAI’s GPT-3.5,Yes,Yes,Yes
+OpenAI’s GPT-4,Yes,Yes,Yes
+OpenAI’s GPT-4 Turbo model,Yes,Yes,Yes
+Optimal Scrutiny Boosted Graph Convolutional LSTM (O-SBGC-LSTM),No,No,No
+Optimizing DNNs Using IB,Yes,Yes,No
+Optimum Wavelet-Based Masking,No,No,Yes
+Optuna,No,Yes,Yes
+Optuna regression models,No,Yes,Yes
+Ordinal Priority Approach (F-OPA),No,No,No
+Ordinary Least Squares Regression (OLS),No,Yes,Yes
+P&O-BSC,No,No,No
+PCA,Yes,Yes,Yes
+PEARL-DGS,No,No,No
+PL-block 1,No,No,No
+PL-block 2,No,No,No
+PLUS model,No,No,Yes
+PMC-LLaMA biomedical-specific language model,No,Yes,Yes
+PRISMA methodology,No,No,No
+PSO-BSC,No,No,Yes
+PSO_DRVM,No,No,No
+Partial Least Squares Regression (PLSR),No,Yes,Yes
+Partial Least Squares Structural Equation Modeling (PLS-SEM),No,Yes,Yes
+Pedestrian 3D Shape Understanding for Person Re-Identification via Multi-View Learning (MV-3DSReID),No,Yes,Yes
+PointRend deep learning mechanism,Yes,Yes,Yes
+PoseNet,Yes,Yes,Yes
+Positional encoding (PE),No,Yes,Yes
+Pre-trained models,No,Yes,Yes
+Preacher and Hayes method,Yes,No,No
+Predict Residuals with Regularization (PRReg),No,No,No
+Predictive analytics,No,Yes,Yes
+Prior Information Guide Module,No,No,No
+Product,No,No,No
+Projected Layer-based Long Short-Term Memory (PL-LSTM),No,No,No
+Propagating IB,No,No,No
+ProteinBERT,Yes,Yes,Yes
+Proximal Policy Optimization (PPO),Yes,Yes,Yes
+PubMedBERT fine-tuning,Yes,Yes,Yes
+Pythagorean fuzzy synthetic decision method,No,No,Yes
+Quantitative Structure Property Relationship (QSPR) analysis,No,Yes,Yes
+Quantum Variational Classifier (QVC),Yes,Yes,Yes
+RF,Yes,Yes,Yes
+RF (Random Forest),Yes,Yes,Yes
+RF modified with the Bagging technique,Yes,Yes,No
+RF-100 tree model,No,No,No
+RF-50 tree model,No,Yes,No
+RL-block,No,No,No
+RNN,Yes,Yes,Yes
+RSM method,No,Yes,Yes
+RWC-Net (recyclable waste classification network),No,Yes,Yes
+Random Drift Optimization (RDO),No,Yes,No
+Random Forest,Yes,Yes,Yes
+Random Forest (RF),Yes,Yes,Yes
+Random forest,Yes,Yes,Yes
+RandomizedSearchCV,Yes,Yes,Yes
+Ranger,No,No,No
+Receiver Operating Characteristic (ROC) curve method,No,Yes,Yes
+Recurrent Neural Networks (RNN),Yes,Yes,Yes
+ReduceLROnPlateau callback,No,Yes,Yes
+Reinforcement Learning,Yes,Yes,Yes
+Reinforcement Learning (RL),Yes,Yes,Yes
+Reinforcement Learning Cancer Network (RL-CancerNet),No,No,No
+Reinforcement Learning from Human Feedback (RLHF),Yes,Yes,Yes
+ResNet,Yes,Yes,Yes
+ResNet (50),Yes,Yes,Yes
+ResNet architecture,Yes,Yes,Yes
+ResNet-101,Yes,Yes,Yes
+ResNet-50,Yes,Yes,Yes
+ResNet152,Yes,Yes,Yes
+ResNet18,Yes,Yes,Yes
+ResNet34,Yes,Yes,Yes
+ResNet50,Yes,Yes,Yes
+ResNet50 CNN,Yes,Yes,Yes
+ResNet50v2,Yes,Yes,Yes
+Residual Network (ResNetv2),Yes,Yes,Yes
+Residual Neural Network 50 (ResNet-50),Yes,Yes,Yes
+Residual Neural Networks (ResNet),Yes,Yes,Yes
+Residual Token Selective Group (RTSG),No,No,No
+Residual-based MLP (ResMLP),Yes,Yes,Yes
+Resnet-101,Yes,Yes,Yes
+Resnet-152,Yes,Yes,Yes
+Response Surface Method,No,Yes,Yes
+Retrieval-augmented generation (RAG),Yes,Yes,Yes
+Reverse Diffusion Data Augmentation Module,No,No,Yes
+Ridge Classifier (RC),Yes,Yes,Yes
+Riemann's correlation-assisted fusion feature (RCFF),No,No,No
+Riesz transformations,No,No,Yes
+RoseTTAFold,Yes,Yes,Yes
+Runge–Kutta Fehlberg’s fourth–fifth order (RKF-45) approach,No,Yes,No
+SENet attention mechanism,Yes,Yes,Yes
+SHAP (SHapley Additive exPlanations),Yes,Yes,Yes
+SHAP (Shapley Additive Explanations),Yes,Yes,Yes
+SHAP analysis,Yes,Yes,Yes
+SHapley,No,Yes,Yes
+SHapley Additive exPlanation (SHAP),Yes,Yes,Yes
+SHapley Additive exPlanations (SHAP),Yes,Yes,Yes
+SVM,Yes,Yes,Yes
+SVM models,Yes,Yes,Yes
+SVR,Yes,Yes,Yes
+SVR (Support Vector Regression),Yes,Yes,Yes
+SVR ensemble with Adaboost,Yes,Yes,Yes
+SVR-FFA,No,Yes,No
+SVR-PSO,Yes,Yes,Yes
+Score-CAM,Yes,Yes,Yes
+Score-CAM (class activation mapping),Yes,Yes,Yes
+Scrutiny Boosted Graph Convolutional LSTM (SBGC-LSTM),No,No,No
+SegFormer segmentation model,Yes,Yes,Yes
+Segment Anything Model,Yes,Yes,Yes
+Self-Attention (SA) layers,Yes,Yes,Yes
+Self-supervised learning,Yes,Yes,Yes
+Shapley additive explanations (SHAP),Yes,Yes,Yes
+Smith–Waterman 3D,No,No,No
+SmoothGrad,Yes,Yes,Yes
+SoftMax function for image classification,No,Yes,Yes
+Source-Free Domain Adaptation (SFDA),Yes,Yes,Yes
+Sparrow search algorithm (SpaSA),Yes,Yes,Yes
+Sparse Gaussian Process models,Yes,Yes,Yes
+Spatial Durbin Error Model (SDEM),No,Yes,No
+Spatial Importance Map (SIM),No,No,Yes
+Spearman correlation test,No,Yes,Yes
+Spherical fuzzy Entropy,No,Yes,Yes
+Spherical fuzzy multi-attribute ideal-real comparative assessment (MAIRCA),No,No,Yes
+Stacking,Yes,Yes,Yes
+Standard U-Net,Yes,Yes,Yes
+Stochastic Gradient Descent optimizer,Yes,Yes,Yes
+Stroke Width Transform (SWT),No,Yes,Yes
+Structural Equation Modeling,No,Yes,No
+Structural Equation Modeling (SEM),No,Yes,No
+Structural Equation Modelling (SEM),No,Yes,No
+Structural equation modeling,No,Yes,No
+Structural equation modeling (SEM),No,Yes,No
+Structure Equation Modeling SEM-PLS,No,Yes,Yes
+Support Vector Classification (SVC),Yes,Yes,Yes
+Support Vector Machine,Yes,Yes,Yes
+Support Vector Machine (SVM),Yes,Yes,Yes
+Support Vector Machines,Yes,Yes,Yes
+Support Vector Machines (SVM),Yes,Yes,Yes
+Support Vector Machines (SVMs),Yes,Yes,Yes
+Support Vector Regression (SVR),Yes,Yes,Yes
+Support vector machine,Yes,Yes,Yes
+Support vector machine (SVM),Yes,Yes,Yes
+Support vector regression (SVR),Yes,Yes,Yes
+Surface-Dice loss function,Yes,Yes,Yes
+SwiGLU-based MLP,Yes,Yes,Yes
+Swin Transformer,Yes,Yes,Yes
+Swin Transformer architecture,Yes,Yes,Yes
+Synthetic Minority Over-sampling Technique (SMOTE),No,Yes,Yes
+TF–LSTM model,No,Yes,Yes
+TL,No,No,No
+TL-CNN,No,Yes,Yes
+TM-align,No,Yes,Yes
+Taguchi,No,No,Yes
+Taguchi method,No,Yes,No
+Taguchi's technique,No,Yes,No
+Teachable Machine,Yes,Yes,Yes
+Technology Acceptance Model (TAM),No,Yes,No
+Temporal Attention Long Short-Term Memory (TA-LSTM),Yes,Yes,Yes
+Temporal Spatial Transformer Network (TSTN),No,No,Yes
+Time-Frequency Representation (TFR) based AlexNet Convolutional Neural Network (CNN),No,Yes,Yes
+Tiny Machine Learning (TinyML),Yes,Yes,Yes
+Top-k Token Selective Transformer (TTST),No,No,No
+TrackMAE pre-training technique,No,Yes,No
+Tracking,No,No,Yes
+TransUNet,Yes,Yes,Yes
+Transfer Learning (TL),Yes,Yes,Yes
+Transformer,Yes,Yes,Yes
+Transformer decoder,Yes,Yes,Yes
+Transformer encoder,Yes,Yes,Yes
+Transformer networks,Yes,Yes,Yes
+Transformer-based method,Yes,Yes,Yes
+Transformer-integrated variants,No,Yes,Yes
+Transformers,Yes,Yes,Yes
+Transformers block,No,Yes,Yes
+Trigonometric Weighted Assessment (TRWA) technique,No,No,No
+U-Net,Yes,Yes,Yes
+U-Net architectures,Yes,Yes,Yes
+U-Net segmentation technique,Yes,Yes,Yes
+U-Net with attention mechanisms,Yes,Yes,Yes
+UNet architecture,Yes,Yes,Yes
+Ultra-Light Deep Learning (ULDL) Model,No,No,No
+Ultra-Lightweight Subspace Attention Module (ULSAM),No,No,No
+Uncertainty Rank Algorithm,No,No,No
+Uncertainty-Aware Fusion Module,No,No,Yes
+Uncertainty-Aware Network (UANet),No,Yes,Yes
+Union index (IU),No,No,No
+V-Net,Yes,Yes,Yes
+VGG,Yes,Yes,Yes
+VGG (16),Yes,Yes,Yes
+VGG (19),Yes,Yes,Yes
+VGG-16,Yes,Yes,Yes
+VGG-19,Yes,Yes,Yes
+VGG16,Yes,Yes,Yes
+VGG19,Yes,Yes,Yes
+"Vicuna (open-source large language model, LLM)",Yes,Yes,Yes
+Vision Transformer (ViT),Yes,Yes,Yes
+Vision Transformer model,Yes,Yes,Yes
+Vision Transformers (ViT),Yes,Yes,Yes
+Visual Geometry Group Networks (VGG-Net),Yes,Yes,Yes
+Visual Language Models (VLMs),Yes,Yes,Yes
+WPD,No,No,No
+"WRVRT (prompt writing, reviewing, validating, revising, and testing)",No,No,No
+Walktrap algorithm,No,Yes,Yes
+Wavelet Scattering Transform (WST),Yes,Yes,Yes
+Weighted Naive Bayes Classification (WNBC),Yes,Yes,Yes
+Weighted Naive Bayes Classifier (WNBC),Yes,Yes,Yes
+Wrapper method,Yes,Yes,Yes
+XAI-CROP,No,No,No
+XGBoost,Yes,Yes,Yes
+XGBoost (XGB),Yes,Yes,Yes
+XGboost,Yes,Yes,Yes
+XGboost classification model,Yes,Yes,Yes
+Xception,Yes,Yes,Yes
+Xtreme Gradient Boosting Decision Trees,Yes,Yes,Yes
+YOLO (You Look Only Once),Yes,Yes,Yes
+YOLO (You Only Look Once),Yes,Yes,Yes
+YOLOv8,Yes,Yes,Yes
+YOLOv8n-vegetable,No,No,No
+YouChat,No,No,No
+Youden index,No,Yes,Yes
+Zero-shot,Yes,Yes,Yes
+ab initio modeling,No,No,No
+activation maps,Yes,Yes,Yes
+active inference,Yes,Yes,Yes
+active learning,Yes,Yes,Yes
+active learning features,No,Yes,Yes
+adaptation,No,Yes,Yes
+adaptive CNN technique,Yes,Yes,Yes
+adaptive GAN model,No,Yes,Yes
+adaptive Wiener filtering,No,Yes,Yes
+adaptive assessments,No,Yes,Yes
+adaptive attention convolution,No,No,Yes
+adaptive boosting,Yes,Yes,Yes
+adaptive distributionally robust model,No,Yes,Yes
+adaptive elephant herd optimization method (AEHOM),No,No,No
+adaptive fitness function,No,Yes,Yes
+adaptive granular-ball neighborhood,No,No,No
+adaptive learning technologies,No,Yes,Yes
+adaptive neuro-fuzzy inference system,Yes,Yes,Yes
+adaptive particle swarm optimizer (APSO),Yes,Yes,Yes
+adaptive simulated annealing particle swarm optimization (ASAPSO),No,Yes,Yes
+adaptive simulated annealing particle swarm optimization-convolutional neural network (ASAPSO-CNN),No,Yes,Yes
+adaptive synthetic (ADASYN) oversampling,Yes,Yes,Yes
+adaptive technology,No,No,No
+additive main effects and multiplicative interaction (AMMI) model,Yes,Yes,Yes
+adjustable genomic binning heuristic,No,No,No
+advanced deep learning techniques,No,No,Yes
+advanced machine learning techniques,No,Yes,No
+advanced statistical methods,No,No,Yes
+adversarial learning process,Yes,Yes,Yes
+"aggregation algorithms: summation, product, and maximum",No,Yes,Yes
+aggregation interaction module,No,No,No
+aggregation operators using the q-rung orthopair fuzzy information system,No,Yes,Yes
+algorithmic modification,No,No,No
+algorithms,No,Yes,No
+algorithm‐based content analyses,No,No,Yes
+ant colony optimization,No,Yes,Yes
+anticipatory prompts,No,No,No
+antlion optimization,Yes,Yes,Yes
+approach to leverage a small subset of fully annotated samples,No,Yes,Yes
+artificial bee colony (ABC) algorithm,Yes,Yes,Yes
+artificial intelligence,No,Yes,Yes
+artificial intelligence (AI),No,Yes,Yes
+artificial intelligence (AI) algorithms,No,Yes,Yes
+artificial intelligence (AI) enabled models,No,Yes,Yes
+artificial intelligence (AI)-powered surveillance,No,No,Yes
+artificial intelligence algorithms,No,Yes,Yes
+artificial intelligence models,No,Yes,Yes
+artificial intelligence vision,No,Yes,No
+artificial intelligence-based Internet of Manufacturing Things systems,No,No,Yes
+artificial intelligence-based forecasting,No,Yes,Yes
+artificial neural network,Yes,Yes,Yes
+artificial neural network (ANN),Yes,Yes,Yes
+artificial neural network (ANN) supervised classification algorithm,Yes,Yes,Yes
+artificial neural network (SEM-ANN),Yes,No,Yes
+artificial neural networks,Yes,Yes,Yes
+artificial neural networks (ANN),Yes,Yes,Yes
+artificial neural networks (ANNs),Yes,Yes,Yes
+artificial neural networks (GANs),No,No,Yes
+asymmetric attention scheme,No,Yes,Yes
+attention mechanism,Yes,Yes,Yes
+attention mechanisms,Yes,Yes,Yes
+attention mechanisms within transformer models,Yes,Yes,Yes
+attention-based fusion technique,No,Yes,Yes
+attention-based graphical representation learning approach (ABGRL),Yes,No,Yes
+attribution-based feature importance calculation method,Yes,Yes,Yes
+augmentation schemes,No,Yes,Yes
+autoencoder,Yes,Yes,Yes
+automated data preprocessing,No,Yes,Yes
+automated feature extraction,No,Yes,Yes
+automated feedback mechanisms,No,No,Yes
+automated image interpretation,No,Yes,Yes
+automated machine learning (AutoML),Yes,Yes,Yes
+automated plastic identification algorithm,No,No,Yes
+autonomous AI-based CADx optical diagnosis,No,No,Yes
+backpropagation,Yes,Yes,Yes
+backpropagation neural network,Yes,Yes,Yes
+bagging,Yes,Yes,Yes
+bagging classifiers,Yes,Yes,Yes
+batch normalization,Yes,Yes,Yes
+bayesian multilevel regression with poststratification,Yes,Yes,Yes
+best-of-n rejection sampling (RS),No,Yes,Yes
+bi-directional Intention network,No,No,No
+bi-layered neural network classifier,Yes,Yes,Yes
+bias evaluation datasets,No,Yes,Yes
+bias evaluation metrics,No,Yes,Yes
+bias loss function,No,Yes,Yes
+bias mitigation methods,Yes,Yes,Yes
+bias mitigation techniques,No,Yes,Yes
+bidirectional feature elimination,No,No,No
+bidirectional long short-term memory (BiLSTM),Yes,Yes,Yes
+bidirectional long short-term memory network (BiLSTM),Yes,Yes,Yes
+bidirectional state space models,Yes,Yes,No
+binary cross-entropy,No,Yes,Yes
+binary tree growth Algorithm,No,No,Yes
+biological hierarchical module,No,No,No
+bivariate random effects model,No,Yes,Yes
+bond graph augmentation technology,No,No,No
+boosting ensemble-based machine learning models,Yes,Yes,Yes
+bootstrap aggregating (bagging),Yes,Yes,Yes
+bootstrap methods,Yes,Yes,Yes
+bootstrapping,Yes,Yes,Yes
+bounding box prediction deep learning network,No,Yes,Yes
+brain age prediction model,No,Yes,Yes
+brain storm optimizer,No,Yes,No
+branch-and-cut (B&C) algorithm,No,Yes,Yes
+breast cancer enhanced convolutional neural networks with semantic initialization filters (BC-INIT-CNN),No,No,No
+categorical data encoding,No,Yes,Yes
+chain of thought prompts,No,Yes,Yes
+chain-of-thought (CoT) prompting,Yes,Yes,Yes
+chameleon swarm algorithm (CSA),No,No,Yes
+change point detection methods,Yes,Yes,Yes
+channel attention,Yes,Yes,Yes
+"chat generative pre-trained transformer (ChatGPT, 3.5 and 4.0)",Yes,Yes,Yes
+classic GPT-4,No,No,Yes
+classical centralized (single-model) approach,No,No,Yes
+classical signal processing,No,No,Yes
+classical stacking ensemble methods,Yes,Yes,Yes
+classification,No,Yes,Yes
+classification loss,No,Yes,Yes
+classification models,No,Yes,Yes
+classification tree-based,No,Yes,Yes
+classifiers,No,Yes,Yes
+clustering algorithms,Yes,Yes,Yes
+clustering method,Yes,Yes,Yes
+clustering techniques,Yes,Yes,Yes
+cognitive computing algorithms,No,No,Yes
+combining DL with causal logic,No,Yes,Yes
+comparator-based evolutionary search approach,No,Yes,Yes
+complex network analysis,No,Yes,Yes
+computational intelligence,No,Yes,Yes
+computer vision,No,Yes,Yes
+computer vision techniques,No,Yes,Yes
+computer vision-based methods,No,Yes,Yes
+conditional GAN model,Yes,Yes,Yes
+conditional tabular generative adversarial network (CTGAN),Yes,Yes,Yes
+confirmation factor analysis,No,No,No
+constructivist methodologies,No,No,No
+content co‐occurrence analysis (co‐word analysis),No,Yes,Yes
+context aggregation network (CATNet),Yes,No,No
+context-aware GPT-4,No,No,Yes
+continual learning,Yes,Yes,Yes
+continuous change-detection model,No,No,Yes
+continuous scaling up,No,No,No
+contrastive learning,Yes,Yes,Yes
+contrastive learning strategy,Yes,Yes,Yes
+contrastive loss function,Yes,Yes,Yes
+conventional RVM,Yes,Yes,Yes
+conventional machine learning,No,Yes,Yes
+conventional machine learning techniques,No,Yes,Yes
+convolution,Yes,Yes,Yes
+convolution neural network (CNN),Yes,Yes,Yes
+convolution-attention mechanisms in transformer-based classifiers,Yes,Yes,Yes
+convolutional approaches,Yes,Yes,Yes
+convolutional neural network,Yes,Yes,Yes
+convolutional neural network (CNN),Yes,Yes,Yes
+convolutional neural network (CNN) based architectures,Yes,Yes,Yes
+convolutional neural network (CNN) model trained from scratch,Yes,Yes,Yes
+convolutional neural network (CNN) models,Yes,Yes,Yes
+convolutional neural networks,Yes,Yes,Yes
+convolutional neural networks (CNN),Yes,Yes,Yes
+convolutional neural networks (CNNs),Yes,Yes,Yes
+convolutional neural networks (convolutional NNs),Yes,Yes,Yes
+correlation analysis (Kendall tau),No,Yes,Yes
+correlation analysis (Spearman rho),No,Yes,Yes
+counterfactual explanation algorithms,Yes,Yes,Yes
+counterfactual explanations,Yes,Yes,Yes
+cross industry standard process for data mining (CRISP-DM) methodology,No,Yes,Yes
+cross-attention-based Transformer,Yes,Yes,Yes
+cross-domain class incremental broad network (CDCIBN),No,No,No
+cross-domain class incremental learning mechanism,Yes,Yes,Yes
+cross-layer connections among Mobile modules,No,No,Yes
+cross-network node classification (CNNC),No,No,Yes
+cross-validation,No,Yes,Yes
+cross-validation (CV) technique,No,Yes,Yes
+cross-validation approach,No,Yes,Yes
+cuckoo algorithms,Yes,Yes,Yes
+curiosity-driven reinforcement learning,Yes,Yes,Yes
+custom GPT-4,No,Yes,Yes
+custom tokenizer,No,Yes,Yes
+cyclical predictions of future observation sequences,No,No,Yes
+data analytics,No,No,No
+data augmentation,No,Yes,Yes
+data augmentation (DA) techniques,No,Yes,Yes
+data augmentation in the embedding space,Yes,Yes,Yes
+data augmentation with the addition of Gaussian noise,Yes,Yes,Yes
+data cleaning,No,Yes,Yes
+data enhancement techniques,No,Yes,Yes
+data fusion,No,Yes,Yes
+data generation,No,Yes,Yes
+data mining,No,Yes,Yes
+data mining (DM),No,Yes,Yes
+data shuffling,No,Yes,Yes
+data-driven approaches,No,Yes,Yes
+data-driven explicit models,No,No,Yes
+data-driven models,No,Yes,Yes
+data-driven spectral matching algorithm,No,No,Yes
+de novo drug design,No,Yes,No
+decision tree,Yes,Yes,Yes
+decision tree (DT),Yes,Yes,Yes
+decision tree regressors (DTRs),Yes,Yes,Yes
+decision trees,Yes,Yes,Yes
+decision trees (DT),Yes,Yes,Yes
+decision-tree,Yes,Yes,Yes
+deconvolution extrapolation technique,No,No,Yes
+deep IBs,No,No,No
+deep LSTMs with a temporal attention (TA) mechanism,Yes,Yes,Yes
+deep Long Short-Term Memory (LSTM) models,Yes,Yes,Yes
+deep and machine learning-based clinical decision support tools,No,Yes,Yes
+deep bidirectional long short-term memory (Deep BiLSTM),Yes,Yes,Yes
+deep bottleneck convolutional neural network,Yes,Yes,Yes
+deep convolutional NN (CNN),Yes,Yes,Yes
+deep convolutional neural network (CNN),Yes,Yes,Yes
+deep convolutional neural networks,Yes,Yes,Yes
+deep fully-connected neural network (FCNN),Yes,Yes,Yes
+deep generative models,Yes,Yes,Yes
+deep learning,Yes,Yes,Yes
+deep learning (DL),Yes,Yes,Yes
+deep learning (DL) approach,No,Yes,Yes
+deep learning (DL) approaches for object detection,No,Yes,Yes
+deep learning (DL) architecture,No,Yes,Yes
+deep learning (DL) based algorithms,No,Yes,Yes
+"deep learning (DL) methodologies for detection of vehicles, pedestrians, and road lanes",No,Yes,Yes
+deep learning (DL) model,No,Yes,Yes
+deep learning (DL) model using ResNet 50,Yes,Yes,Yes
+deep learning (DL) models,Yes,Yes,Yes
+deep learning (DL) system that learns from weak labels,Yes,Yes,Yes
+deep learning (DL) techniques,No,Yes,Yes
+deep learning algorithm,No,Yes,Yes
+deep learning algorithms,No,Yes,Yes
+deep learning architectures,No,Yes,Yes
+deep learning framework,No,Yes,Yes
+deep learning methods,Yes,Yes,Yes
+deep learning methods with encoder–decoder architectures,Yes,Yes,Yes
+deep learning model,Yes,Yes,Yes
+deep learning model based on EfficientNetB3,Yes,Yes,Yes
+deep learning model based on convolutional neural networks integrating bidirectional long short-term memory and self-attention mechanism (CNN-Bi-LSTM-AM),Yes,Yes,Yes
+deep learning models,No,Yes,Yes
+deep learning system decision support,No,No,Yes
+deep learning techniques,No,Yes,Yes
+deep learning-based AI assistance,No,Yes,Yes
+deep learning-based algorithms,No,Yes,Yes
+deep learning-based approaches,No,Yes,Yes
+deep learning-based method,No,Yes,Yes
+deep learning-based methods,No,Yes,Yes
+deep learning-based models,No,Yes,Yes
+deep learning-based multi-label interpretable diagnostic model,No,Yes,Yes
+deep learning-based multi-omics data integration methods,Yes,Yes,Yes
+deep learning-based structural health monitoring (DL-based SHM),No,Yes,Yes
+deep machine learning,No,No,Yes
+deep multi-modal network embedding,Yes,Yes,Yes
+deep neural network,Yes,Yes,Yes
+deep neural network (DNN),Yes,Yes,Yes
+deep neural network models,Yes,Yes,Yes
+deep neural network stacking ensemble methods,Yes,Yes,Yes
+deep neural networks,Yes,Yes,Yes
+deep neural networks (DNNs),Yes,Yes,Yes
+deep neural networks (NNs),Yes,Yes,Yes
+deep neural networks classifier,Yes,Yes,Yes
+deep reinforcement learning (DRL),Yes,Yes,Yes
+deep transfer learning,Yes,Yes,Yes
+deep transfer learning (DTL) features,Yes,Yes,Yes
+deep transfer learning architectures,Yes,Yes,Yes
+deep-learning algorithms,No,Yes,Yes
+deep-learning methodologies,No,Yes,Yes
+deep-learning model,No,Yes,Yes
+deep-learning neural network-based cloud server data analysis system (CSDAS),No,No,Yes
+deep-learning-based multilabel classification model,No,Yes,Yes
+dense architectures (D1 and D2),No,Yes,Yes
+dense feature pyramid network (DenseFPN),Yes,Yes,Yes
+differentiable modeling,Yes,Yes,Yes
+differentiable routing method (δ MC‐Juniata‐hydroDL2),No,No,No
+differential evolution algorithm (DEA),Yes,Yes,Yes
+diffusion model,Yes,Yes,Yes
+diffusion process,Yes,Yes,Yes
+diffusion-based deep learning framework,Yes,Yes,Yes
+diffusion-modeling-based AI image-generation systems,Yes,Yes,Yes
+digital twin simulation modeling,No,Yes,Yes
+digital twins,No,Yes,No
+dilated convolutions,Yes,Yes,Yes
+discrete-event simulation,No,Yes,No
+discriminative AI algorithms,No,Yes,Yes
+discriminator,Yes,Yes,Yes
+disentangled graph encoder,Yes,Yes,Yes
+distributed adaptive event-triggered time-varying formation control,No,No,Yes
+distributed continuous control scheme under regular output-feedback,No,No,Yes
+distributed event-triggered controller,No,Yes,No
+distributed state-triggered output-feedback time-varying formation fault-tolerant control scheme,No,No,Yes
+divide-and-conquer approach,No,Yes,Yes
+domain adaptation,Yes,Yes,Yes
+domain adaptation methods,Yes,Yes,Yes
+domain-adaptation learning loss function,No,Yes,Yes
+domain-specific finetuning,Yes,Yes,Yes
+double Universums as a special kind of hard negative,No,No,No
+dropout,Yes,Yes,Yes
+dual attention mechanism,Yes,Yes,Yes
+dual-attention-guided decoder (DD),No,No,Yes
+dual-channel event-triggered mechanism,No,No,Yes
+dynamic adversarial adaptation,Yes,No,Yes
+dynamic price prediction model,No,Yes,Yes
+dynamic time warping,Yes,Yes,Yes
+eXtreme Gradient Boosting,Yes,Yes,Yes
+eXtreme Gradient Boosting (XGBoost),Yes,Yes,Yes
+early disease detection algorithms,No,Yes,Yes
+elk herd optimizer (EHO),Yes,No,Yes
+encoder-decoder network,Yes,Yes,Yes
+encoder–decoder network,Yes,Yes,Yes
+end-to-end convolutional neural network model,Yes,Yes,Yes
+enhanced representation learning using orthogonal mapping,No,No,Yes
+ensemble,Yes,Yes,Yes
+ensemble Machine Learning (ML) classifier,Yes,Yes,Yes
+ensemble algorithm,Yes,Yes,Yes
+ensemble approaches,Yes,Yes,Yes
+ensemble classifiers,Yes,Yes,Yes
+ensemble deep learning model,Yes,Yes,Yes
+ensemble feature importance scoring strategy,No,Yes,Yes
+ensemble ghosting technique,No,No,No
+ensemble learning,Yes,Yes,Yes
+ensemble learning (EL),Yes,Yes,Yes
+ensemble learning approach,Yes,Yes,Yes
+ensemble learning methods,Yes,Yes,Yes
+ensemble learning technique,Yes,Yes,Yes
+ensemble machine learning methods,Yes,Yes,Yes
+ensemble machine learning models,Yes,Yes,Yes
+ensemble modeling,Yes,Yes,Yes
+ensemble of D1 and D2,No,Yes,Yes
+ensemble of deep learning models,Yes,Yes,Yes
+ensemble prompts,No,Yes,Yes
+ensemble stacking,Yes,Yes,Yes
+ensemble technique using Weighted Average,Yes,Yes,Yes
+ensemble using majority voting,Yes,Yes,Yes
+ensemble voting nucleus sampling strategy,No,No,No
+ensemble-based classification,Yes,Yes,Yes
+entropy technique,No,Yes,Yes
+entropy-based uncertainty estimators,Yes,Yes,Yes
+equilibrium optimizer,Yes,Yes,Yes
+evolutionary algorithms (EAs),Yes,Yes,Yes
+expectation-based thresholding model,No,No,Yes
+experience replay method,Yes,Yes,Yes
+explainable AI,No,Yes,Yes
+explainable AI (XAI),Yes,Yes,Yes
+explainable AI (xAI),Yes,Yes,Yes
+explainable AI methods,No,Yes,Yes
+explainable artificial intelligence,No,Yes,Yes
+explainable artificial intelligence (XAI),No,Yes,Yes
+extended PF-measurement of alternatives and ranking according to compromise solution (MARCOS) method integrating PF-criteria importance through inter-criteria correlation (CRITIC),Yes,No,Yes
+extra-tree,Yes,Yes,Yes
+extreme gradient boost (XGBoost),Yes,Yes,Yes
+extreme gradient boosting,Yes,Yes,Yes
+extreme gradient boosting (XGB),Yes,Yes,Yes
+extreme gradient boosting (XGBoost),Yes,Yes,Yes
+facial recognition,No,Yes,Yes
+factor analysis,Yes,Yes,Yes
+factorial regression model,No,No,No
+fair method of assessing contribution to identify client-side free-riding behavior,No,No,No
+fairness testing techniques,No,Yes,Yes
+faster Region-Based Convolutional Neural Networks (R-CNN),Yes,Yes,Yes
+feature attention (FA) module,No,Yes,Yes
+feature construction,Yes,Yes,Yes
+feature enhancement module (FEM),No,No,Yes
+feature extraction,No,Yes,Yes
+feature fusion module (FFM),No,Yes,Yes
+feature identification,No,Yes,Yes
+feature importance evaluation,No,Yes,Yes
+feature selection,Yes,Yes,Yes
+feature selection techniques,No,Yes,Yes
+feature selection/reduction,Yes,Yes,Yes
+feature-selection (FS),Yes,Yes,Yes
+federated learning,Yes,Yes,Yes
+federated learning (FL),Yes,Yes,Yes
+feed-forward spiking neural network,Yes,Yes,Yes
+few-shot learning,Yes,Yes,Yes
+few-shot learning (FSL),Yes,Yes,Yes
+few-shot prompting,Yes,Yes,Yes
+fine tuning,Yes,Yes,Yes
+fine-grained multi-modal reward models,No,Yes,Yes
+fine-tuned BioBERT,Yes,Yes,Yes
+fine-tuned BioBERT models,Yes,Yes,Yes
+fine-tuned RoBERTa,Yes,Yes,Yes
+fine-tuned deep learning models,Yes,Yes,Yes
+fine-tuned domain-specific models,No,Yes,Yes
+fine-tuned networks,Yes,Yes,Yes
+fine-tuning,Yes,Yes,Yes
+finetuned models,No,Yes,Yes
+finetuning,Yes,Yes,Yes
+firefly algorithm,Yes,Yes,Yes
+five-fold cross validation,No,Yes,Yes
+five-fold cross-validation,No,Yes,Yes
+five-fold cross-validation technique,No,Yes,Yes
+foundation models,Yes,Yes,Yes
+four-residual blocks bottleneck,No,Yes,Yes
+four-residual blocks bottleneck architecture,No,Yes,Yes
+frequency-temporal-based augmentation,No,No,Yes
+frequentist multilevel models,No,Yes,Yes
+fully connected neural network (FCN),Yes,Yes,Yes
+fully convolutional encoder–decoder network,Yes,Yes,Yes
+fully integrated dynamic vegetation models (DVMs) and radiative transfer models (“Digital Twin” framework),No,No,No
+fully learned approach,No,No,No
+fuzzy based inference techniques,Yes,Yes,Yes
+fuzzy computing,No,Yes,Yes
+fuzzy integral,Yes,Yes,Yes
+fuzzy logic,No,Yes,Yes
+fuzzy logic (FL),No,Yes,Yes
+fuzzy multiobjective programming (FMOP) model,No,Yes,Yes
+fuzzy neural architecture search (fuzzy NAS),No,No,Yes
+fuzzy rule-based methods,Yes,Yes,Yes
+fuzzy set qualitative comparative analysis (fs‐QCA),No,Yes,Yes
+fuzzy-set qualitative comparative analysis (fsQCA),No,Yes,Yes
+game theory,No,Yes,Yes
+gated linear unit (GLU) module,Yes,Yes,Yes
+gaussian process regression,Yes,Yes,Yes
+gene expression programming (GEP),Yes,Yes,Yes
+general additive models,Yes,Yes,Yes
+generalized method of moments (GMM),No,Yes,Yes
+generation strategy to generate training data with different challenge attributes,No,Yes,Yes
+generative AI,No,Yes,Yes
+generative AI (ChatGPT),Yes,Yes,Yes
+generative AI for finding new targets and drug discovery,No,Yes,Yes
+generative AI for novel radiopharmaceutical target discovery and drug development,No,No,Yes
+generative AI models,Yes,Yes,Yes
+generative AI techniques,Yes,Yes,Yes
+generative AI-based chatbot (SRLbot),No,Yes,Yes
+generative adversarial imitation learning,Yes,Yes,Yes
+generative adversarial network,Yes,Yes,Yes
+generative adversarial networks,Yes,Yes,Yes
+generative adversarial networks (GANs),Yes,Yes,Yes
+generative algorithms,No,Yes,Yes
+generative artificial intelligence,No,Yes,Yes
+generative artificial intelligence (AI),No,Yes,Yes
+generative artificial intelligence (AI) tools,No,Yes,Yes
+generative artificial intelligence (GenAI),No,Yes,Yes
+generative artificial intelligence (generative AI),Yes,Yes,Yes
+generative artificial intelligence models,Yes,Yes,Yes
+generative language models,Yes,Yes,Yes
+generative large language models (LLMs),Yes,Yes,Yes
+generative network-based augmentations,No,Yes,Yes
+generative pre-trained transformer-3 (GPT-3),Yes,Yes,Yes
+generative transformer,Yes,Yes,Yes
+generator,No,Yes,Yes
+genetic algorithm,Yes,Yes,Yes
+genetic algorithm (GA),Yes,Yes,Yes
+genetic algorithms,Yes,Yes,Yes
+genomic prediction (GP) models,No,Yes,Yes
+geographically weighted regression,No,Yes,Yes
+global average pooling,Yes,Yes,Yes
+global localization perception and local guidance refinement network (PRNet),No,Yes,Yes
+global sensitivity analysis,No,Yes,Yes
+grad-CAM (gradient-weighted class activation mapping),Yes,Yes,Yes
+gradient,No,Yes,Yes
+gradient boosting,Yes,Yes,Yes
+gradient boosting (GB),Yes,Yes,Yes
+gradient boosting machine,Yes,Yes,Yes
+gradient boosting regressors (GBRs),Yes,Yes,Yes
+gradient descent algorithm,Yes,Yes,Yes
+gradient descent optimizer,Yes,Yes,Yes
+gradient-boost decision tree algorithm (GBDT),Yes,Yes,Yes
+gradient-centralized optimizer,No,Yes,No
+granular-ball computing (GBC),Yes,Yes,No
+granular-ball neighborhood rough sets model (GBNRS++),No,Yes,Yes
+graph attention network (GAT),Yes,Yes,Yes
+graph autoencoder (GAE),Yes,Yes,Yes
+graph clustering,Yes,Yes,Yes
+graph contrastive learning,Yes,Yes,Yes
+graph convolution network (GCN),Yes,Yes,Yes
+graph convolutional networks,Yes,Yes,Yes
+graph convolutional networks (GCNs),Yes,Yes,Yes
+graph convolutional neural network (GCN),Yes,Yes,Yes
+graph deep learning framework,No,Yes,Yes
+graph neural network (GNN),Yes,Yes,Yes
+graph neural network-based method,Yes,Yes,Yes
+graph neural networks,Yes,Yes,Yes
+graph signal processing-graph convolutional networks (GSP-GCNs),Yes,Yes,Yes
+gravity model,No,No,Yes
+gray correlation analysis,No,Yes,Yes
+gray relational analysis (GRA),No,Yes,Yes
+gray wolf optimizer (GWO),Yes,Yes,Yes
+grey wolf algorithm,Yes,Yes,Yes
+grey wolf optimization (GWO),Yes,Yes,Yes
+grid search optimization,No,Yes,Yes
+grid search optimization (GSO) algorithm,No,No,Yes
+group-equivariant convolutional network,Yes,Yes,Yes
+guidance interaction module,No,No,No
+guided backpropagation,Yes,Yes,Yes
+handcrafted (HC) feature extraction methods,No,Yes,Yes
+healthcare-customized LLMs like BioGPT,Yes,Yes,Yes
+healthcare-customized LLMs like DeepHealth,No,No,No
+healthcare-customized LLMs like Med-PaLM,Yes,Yes,Yes
+heuristic decision-maker,No,No,Yes
+heuristic prompts,No,No,Yes
+hidden layer representations,No,Yes,Yes
+hierarchical (temporally) deep internal (generative or world) models,No,No,Yes
+hierarchical formulation,No,No,Yes
+hierarchical in-context learning,No,Yes,Yes
+hierarchical mechanisms,No,No,Yes
+hierarchical region of interest extractor (HRoIE),No,No,No
+hierarchical self-supervised pretraining,Yes,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,Yes
+hierarchical sequence clustering,No,Yes,Yes
+hierarchical tracker MixCvT,No,No,No
+hierarchy of 3D Gaussians,No,Yes,Yes
+high-level policy to select and control skills,No,Yes,Yes
+hold-out approach,Yes,Yes,Yes
+homology modeling,No,Yes,No
+human felicity algorithm (HFA),No,No,No
+human pose estimation algorithm (OpenPose),Yes,Yes,Yes
+human-cognition-assisted method,No,No,No
+human–computer collaborative learning,No,Yes,Yes
+hybrid Bayesian Optimization and HyperBand (BOHB) algorithm,Yes,Yes,Yes
+hybrid CNN and transformer architecture,Yes,Yes,Yes
+hybrid CNN-LSTM model,Yes,Yes,Yes
+hybrid CNN-SVD model,Yes,Yes,Yes
+hybrid DL model,No,Yes,Yes
+hybrid algorithms,No,Yes,Yes
+hybrid contrastive loss (HCL),Yes,Yes,Yes
+hybrid control methods,No,Yes,Yes
+hybrid machine learning (HML) approaches like XGB-LGB,No,Yes,Yes
+hybrid machine learning (HML) approaches like XGB-RF,No,Yes,Yes
+hybrid machine learning model (KNN + SVM),Yes,Yes,Yes
+hybrid methodology combining DL and ML,No,Yes,Yes
+hybrid methods,Yes,Yes,Yes
+hybrid model,No,Yes,Yes
+hybrid models,Yes,Yes,Yes
+hybrid models that use both convolutional neural networks and transformer,Yes,Yes,Yes
+hybrid physics‐NN models,Yes,Yes,Yes
+hybrid predictive model based on grey approach,Yes,Yes,Yes
+hybrid sampling,No,Yes,Yes
+hybrid shifted window-based multi-head self-attention (HSW-MSA),No,Yes,Yes
+hyperparameter tuning,No,Yes,Yes
+image acquisition,No,No,No
+image partitioning,No,Yes,Yes
+image recognition,No,Yes,Yes
+image-based feature extraction algorithms,No,Yes,Yes
+image-to-text model combined with LLMs,Yes,Yes,Yes
+imitation learning (IL),Yes,Yes,Yes
+implementation science,No,No,No
+improved Transformer,No,Yes,Yes
+improved entropy weighting method (EWM),No,Yes,Yes
+improved grey wolf optimization (IGWO),Yes,Yes,Yes
+improved temporal difference error method,No,Yes,Yes
+in-context learning,Yes,Yes,Yes
+in-context learning (ICL) paradigm of large language models (LLMs),Yes,Yes,Yes
+in-context learning paradigm,Yes,Yes,Yes
+in-training intervention,No,No,No
+incompressible orthotropic constitutive neural network,No,No,No
+incremental feature selection (IFS),Yes,Yes,Yes
+incremental learning techniques,Yes,Yes,Yes
+independent component analysis,Yes,Yes,Yes
+individual wolf method,No,No,No
+inductive cognitive diagnosis model (ICDM),No,Yes,Yes
+information fusion method with a PFS-weighted power average (WPA) operator,No,Yes,Yes
+information gain (IG),Yes,Yes,Yes
+input X gradient,Yes,Yes,Yes
+input times gradients,Yes,No,Yes
+instance segmentation,Yes,Yes,Yes
+instruction fine-tuning,Yes,Yes,Yes
+instruction tuning,Yes,Yes,Yes
+instruction-based learning paradigm,No,Yes,Yes
+instruction-following large language models,No,Yes,Yes
+instruction-tuning,Yes,Yes,Yes
+integrated coupling,No,No,No
+integrated gradients,Yes,Yes,Yes
+integration and assimilation of time series-derived metrics into statistical and process-based dynamic vegetation models (DVMs),No,No,Yes
+intelligent agents,No,Yes,Yes
+intelligent algorithms,No,No,No
+intelligent automation,No,No,No
+intelligent tutoring systems,No,Yes,Yes
+interpretable mixed-supervision scheme,No,No,Yes
+intra-processing intervention,No,No,No
+intrinsic motivation reinforcement learning algorithms,Yes,Yes,Yes
+inverse ML models,No,No,Yes
+inverse quantitative structure-activity relationship,Yes,Yes,Yes
+inverted residual (IRU) blocks,Yes,No,Yes
+iterative training,No,Yes,Yes
+joint time-frequency (JTF) analysis,No,Yes,Yes
+joint-embedding loss,Yes,Yes,Yes
+k-Nearest Neighbors,Yes,Yes,Yes
+k-fold cross-validation method,No,Yes,Yes
+k-means,Yes,Yes,Yes
+k-means analysis,Yes,Yes,Yes
+k-means clustering,Yes,Yes,Yes
+k-nearest neighbor (KNN),Yes,Yes,Yes
+k-nearest neighbor model,Yes,Yes,Yes
+kernel density estimation (KDE),No,Yes,Yes
+kernel density-based methods,Yes,Yes,Yes
+kernel-based canonical correlation analysis,Yes,Yes,Yes
+knowledge distillation,Yes,Yes,Yes
+knowledge graphs,Yes,Yes,Yes
+label transition matrix,No,Yes,Yes
+labeling,No,Yes,Yes
+land surface phenology,No,No,No
+language models,No,Yes,Yes
+large language model,Yes,Yes,Yes
+large language model (LLM),Yes,Yes,Yes
+"large language model, ChatGPT 4.0",Yes,Yes,Yes
+large language models,No,Yes,Yes
+large language models (GPT-3.5),Yes,Yes,Yes
+large language models (GPT-4),Yes,Yes,Yes
+large language models (LLM),No,Yes,Yes
+large language models (LLMs),No,Yes,Yes
+large model transformers,No,Yes,Yes
+large multimodal models (LMMs),Yes,Yes,Yes
+"large-language model (LLM, Generative Pre-trained Transformer 4 [GPT-4])",Yes,Yes,Yes
+lasso,Yes,Yes,Yes
+lasso logistic regression,Yes,Yes,Yes
+lasso regression,Yes,Yes,Yes
+latent diffusion,Yes,Yes,Yes
+latent diffusion model,Yes,Yes,Yes
+layerwise relevance propagation,Yes,Yes,Yes
+least absolute shrinkage and selection operator (LASSO) regression method,Yes,Yes,Yes
+least absolute shrinkage and selection operator regression,Yes,Yes,Yes
+light gradient boosting (LGB),Yes,Yes,Yes
+light gradient boosting machine,Yes,Yes,Yes
+light gradient boosting machine (LightGBM),Yes,Yes,Yes
+lightning search algorithm (LSA),No,Yes,No
+lightweight design architectures,No,No,Yes
+lightweight multi-head self-attention (LMHSA),Yes,Yes,Yes
+linear discriminant analysis classifier,Yes,Yes,Yes
+linear encoding models,Yes,Yes,Yes
+linear mixed-effects models,No,Yes,Yes
+linear regression,Yes,Yes,Yes
+linear regression models,Yes,Yes,Yes
+linear regressions,No,Yes,Yes
+local adaptive classification models,No,No,Yes
+local feed-forward networks (LFFN),No,No,Yes
+local search algorithm,No,Yes,Yes
+local to global approaches,No,No,Yes
+logistic regression,Yes,Yes,Yes
+logistic regression (LR),Yes,Yes,Yes
+long short-term memory (LSTM),Yes,Yes,Yes
+long short-term memory (LSTM) network,Yes,Yes,Yes
+long short-term memory (LSTM) recurrent neural networks,Yes,Yes,Yes
+long short-term memory neural network (LSTM),Yes,Yes,Yes
+long-context variant (EchoCLIP-R),No,No,Yes
+loss function to adjust uniformity of representations,No,Yes,Yes
+machine learning,Yes,Yes,Yes
+machine learning (ML),Yes,Yes,Yes
+machine learning (ML) algorithms,No,Yes,Yes
+machine learning (ML) based algorithms,No,Yes,Yes
+machine learning (ML) based strategies,No,Yes,Yes
+machine learning (ML) framework,No,Yes,Yes
+machine learning (ML) methods,No,Yes,Yes
+machine learning (ML) models,No,Yes,Yes
+machine learning (ML) techniques,No,Yes,Yes
+machine learning (ML) technologies,No,Yes,Yes
+machine learning (ML)-based approaches,No,Yes,Yes
+machine learning (ML)-based schemes,No,Yes,Yes
+machine learning algorithms,No,Yes,Yes
+machine learning approaches,No,Yes,Yes
+machine learning baseline methods,No,Yes,Yes
+machine learning classifiers,No,Yes,Yes
+machine learning methods,No,Yes,Yes
+machine learning model,No,Yes,Yes
+machine learning model - RG-DMML (retention and graduation data mining and machine learning),No,No,No
+machine learning model assuming homogeneity,No,No,Yes
+machine learning models,No,Yes,Yes
+machine learning models trained on image datasets,No,Yes,Yes
+machine learning pipelines,No,Yes,Yes
+machine learning regression algorithms (MLRA),No,Error: 502 Server Error: Bad Gateway for url: https://api.anthropic.com/v1/messages,Yes
+machine learning techniques,No,Yes,Yes
+machine learning-based algorithms,No,Yes,Yes
+machine learning-based approaches,No,Yes,Yes
+machine learning-based seeding accuracy,No,No,No
+machine learning-based techniques,No,Yes,Yes
+machine vision,No,Yes,Yes
+machine-learning algorithm,No,Yes,Yes
+machine-learning-based forecasts,No,Yes,Yes
+majority voting scheme,No,Yes,Yes
+malicious model detection method for secure model aggregation,No,Yes,Yes
+masked autoencoder pre-training,Yes,Yes,Yes
+masked deep neural network (MDNN),No,Yes,Yes
+max-margin contrastive loss function,Yes,Yes,Yes
+max-pooling,Yes,Yes,Yes
+mean convolutional filter,No,No,Yes
+merging mechanism to remove redundant tokens in the vision transformer,No,Yes,Yes
+meta learning methods,Yes,Yes,Yes
+meta-analysis,No,No,No
+meta-learning based adaptive segmentation,Yes,Yes,Yes
+metaheuristic algorithms,No,Yes,Yes
+metaheuristic optimization algorithms,No,Yes,Yes
+metric learning,Yes,Yes,Yes
+micro-action network (MANet),No,No,No
+missing data imputation,No,Yes,Yes
+model compression techniques,Yes,Yes,Yes
+model predictive control,No,Yes,Yes
+model-agnostic explanation tools,Yes,Yes,Yes
+model-based methods,Yes,Yes,Yes
+model-based visualization method,No,Yes,Yes
+moderation analysis,No,No,Yes
+modified Inception V3 architecture,Yes,Yes,Yes
+modified bootstrap resampling procedure,No,Yes,Yes
+molecular property prediction,No,Yes,Yes
+molecule generation,No,Yes,Yes
+motif-aware MDA prediction model (MotifMDA),No,No,Yes
+motif-aware graph reconstruction optimization,No,No,Yes
+multi-attribute decision-making problem approach,No,Yes,Yes
+multi-group analysis,No,No,Yes
+multi-head attention,Yes,Yes,Yes
+multi-head attention mechanism,Yes,Yes,Yes
+multi-label training strategy,No,Yes,Yes
+multi-layer perceptron (MLP),Yes,Yes,Yes
+multi-objective genetic algorithm (MOGA),Yes,Yes,Yes
+multi-objective optimization,No,Yes,Yes
+multi-objective optimization (MOO),No,Yes,Yes
+multi-purpose generative architectures,No,Yes,Yes
+multi-stage Transformer (MST) encoder,No,Yes,Yes
+multi-task deep neural network prediction model,Yes,Yes,Yes
+multi-task graph neural network framework,Yes,Yes,Yes
+multi-task learning,Yes,Yes,Yes
+multi-variational polynomial regression framework,No,No,Yes
+multi-view learning,Yes,Yes,Yes
+multichannel convolutional recurrent neural network (CNN-GRU),Yes,Yes,Yes
+multicriteria decision-making (MCDM),No,Yes,Yes
+multifidelity learning,Yes,Yes,Yes
+multilayer artificial neural net algorithm,Yes,Yes,Yes
+multilayer deep convolutional neural network (MLDCNN),Yes,Yes,Yes
+multilayer perception,No,Yes,Yes
+multilayer perceptron,Yes,Yes,Yes
+multilayer perceptron (MLP),Yes,Yes,Yes
+multilayer perceptron attention module (MLPAM),No,No,Yes
+multilayer perceptron model,Yes,Yes,Yes
+multilayer perceptrons,Yes,Yes,Yes
+multilayered perception (MLP) model,No,Yes,Yes
+multilevel modelling,No,Yes,Yes
+multimodal deep learning fusion (MDLF),No,Yes,Yes
+multimodal dynamic model,No,Yes,Yes
+multimodal feature extraction network,No,Yes,Yes
+multimodal generative foundation AI assistant,No,Yes,Yes
+multimodal generative models,Yes,Yes,Yes
+multiple classifiers ensemble,Yes,Yes,Yes
+multiple composite RF approach,No,No,No
+multiple linear regression,Yes,Yes,Yes
+multiple regression analysis,No,Yes,Yes
+multiscale convolutional neural networks (CNNs),Yes,Yes,Yes
+multitask learning,Yes,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,Yes
+multivariate Gaidai reliability methodology,No,No,No
+multivariate cox-proportional hazard model,No,Yes,Yes
+multivariate logistic regression,Yes,Yes,Yes
+multivariate methods,No,Yes,Yes
+multivariate reliability analysis,No,No,No
+multivariate swarm filtering,No,No,No
+multivariate swarm-sparse decomposition method (MSSDM),No,No,No
+multivariate wavelet coherence,No,No,Yes
+mutation grey wolf optimizer (TMGWO),Yes,Yes,Yes
+mutual information,Yes,Yes,Yes
+mutual information (MI)-based constraints,No,Yes,Yes
+named entity recognition,Yes,Yes,Yes
+natural language processing,No,Yes,Yes
+natural language processing (NLP),No,Yes,Yes
+natural language processing (NLP) algorithms,No,Yes,Yes
+network embedding methods,Yes,Yes,Yes
+neural architecture search (NAS),Yes,Yes,Yes
+neural language model,Yes,Yes,Yes
+neural network,Yes,Yes,Yes
+neural network (NN),Yes,Yes,Yes
+neural network algorithms,Yes,Yes,Yes
+neural network approximation technique,No,Yes,Yes
+neural network architectures,No,Yes,Yes
+neural network coverage criteria,No,Yes,Yes
+neural network model based on the MA-Net architecture,Yes,No,No
+neural network with fully connected layers,Yes,Yes,Yes
+neural networks,Yes,Yes,Yes
+neural networks (NNs),Yes,Yes,Yes
+neural observer,No,Yes,Yes
+neuro-symbolic system,Yes,Yes,Yes
+neuron activation profiles,No,Yes,Yes
+neuron proportional integral (FI-NPI),No,No,Yes
+neuron supervised learning,No,No,No
+nn-UNet,Yes,Yes,Yes
+node-graph contrastive loss,No,No,Yes
+non-dominated sorting genetic algorithm (NSGA-II),Yes,Yes,Yes
+non-dominated sorting genetic algorithms (NSGA-II),Yes,Yes,Yes
+non-hierarchical simple tracker MixViT,No,No,No
+non-probabilistic approaches,Yes,Yes,Yes
+nonseparable wavelets,Yes,Yes,Yes
+nuclear reaction optimization (NRO),Yes,No,No
+numerical model,No,No,No
+numerical modeling,No,No,No
+object recognition,No,Yes,Yes
+object tracking,No,Yes,Yes
+occlusion,No,Yes,Yes
+offline ML models,No,Yes,Yes
+one-dimensional Convolutional Neural Network (CNN),Yes,Yes,Yes
+one-shot learning,Yes,Yes,Yes
+one-step multi-view clustering with diverse representation (OMVCDR),No,No,No
+online ML models,Yes,Yes,Yes
+optimal control theory,No,Yes,Yes
+optimal parameter-based geographical detector (OPGD),No,No,Yes
+optimization,No,Yes,Yes
+optimization algorithms,No,Yes,Yes
+optimization techniques,No,Yes,Yes
+optimized RVM,Yes,Yes,Yes
+ordinary least squares regression model,Yes,Yes,Yes
+oversampling,No,Yes,Yes
+partial dependency plot,Yes,Yes,Yes
+partial least square structural equation modeling (PLS-SEM),No,Yes,Yes
+partial least squares method,No,Yes,Yes
+partial least squares regression (PLSR),Yes,Yes,Yes
+partial least squares structural equation model (PLS-SEM),No,Yes,Yes
+partial least squares structural equation modeling (PLS-SEM),No,Yes,Yes
+partial least squares-structural equation modeling (PLS-SEM),No,Yes,Yes
+partial-channel transformation (PCT) strategy,No,No,Yes
+particle swarm optimisation (PSO),No,Yes,Yes
+particle swarm optimization,No,Yes,Yes
+particle swarm optimization (PSO),No,Yes,Yes
+particle swarm optimization (PSO) algorithm,Yes,Yes,Yes
+path analysis,No,Yes,Yes
+pathway self-attention module,No,Yes,Yes
+pattern recognition,No,Yes,Yes
+perception module trained to reconstruct obstacles from sensory data,No,Yes,Yes
+personalization,No,Yes,Yes
+physics informed ML based irrigation scheduling models,No,No,Yes
+physics-informed deep learning (DL) approaches,Yes,Yes,Yes
+physics-informed machine learning,Yes,Yes,Yes
+physics-informed neural network (PINN),Yes,Yes,Yes
+play- and game-based approaches,No,No,Yes
+post hoc methods,No,Yes,Yes
+post-filtering,Yes,Yes,Yes
+post-hoc explanation technique,Yes,Yes,Yes
+post-processing intervention,No,No,Yes
+practical channel attention component,No,Yes,No
+pre-processing intervention,No,No,Yes
+pre-trained CNN architecture MobileNet-V3,Yes,Yes,Yes
+pre-trained RoBERTa,Yes,Yes,Yes
+pre-trained convolutional neural networks (CNNs),Yes,Yes,Yes
+pre-trained models,No,Yes,Yes
+pre-trained networks,No,Yes,Yes
+pre-trained networks for transfer learning,Yes,Yes,Yes
+pre-trained transfer learning models,Yes,Yes,Yes
+pre-trained transfer-learning-based feature-extraction approach,Yes,Yes,Yes
+pre-trained vision transformer,Yes,Yes,Yes
+"pre-training, meta-learning, and fine-tuning (PMF)",No,Yes,Yes
+prediction of high-risk lesions,No,No,No
+predictive analytics,No,Yes,Yes
+predictive coding models,Yes,Yes,Yes
+predictive learning,No,Yes,Yes
+predictive maintenance strategies,No,Yes,No
+prefix attachment at training time,No,No,No
+preprocessing,No,Yes,Yes
+pretrained convolutional neural networks,Yes,Yes,Yes
+pretrained foundation models,Yes,Yes,Yes
+pretrained neural networks,Yes,Yes,Yes
+prevalent action recognition methods,No,No,Yes
+principal component analysis,Yes,Yes,Yes
+principal component analysis (PCA),Yes,Yes,Yes
+privacy-preserving genetic algorithm (PEGA),No,No,Yes
+probabilistic classification,Yes,Yes,Yes
+probabilistic methods,Yes,Yes,Yes
+probabilistic models,Yes,Yes,Yes
+process mining,No,Yes,Yes
+process-based models integrated with ML,No,Yes,Yes
+progressive active learning workflow,No,No,Yes
+project-based learning,No,No,No
+projection network module,No,Yes,Yes
+prompt chaining,Yes,Yes,Yes
+prompt engineering,No,Yes,Yes
+prompt engineering strategies,No,Yes,Yes
+prompt-based strategies,Yes,Yes,Yes
+prompt-engineering techniques,No,Yes,Yes
+prototype calibration strategy,No,No,Yes
+prototype learning,Yes,Yes,Yes
+prototype with explainable predictions,No,No,Yes
+proximal policy optimization algorithm,Yes,Yes,Yes
+proxy contrastive loss (PCL),Yes,Yes,Yes
+pseudospectral angle mapping (pSAM),No,No,Yes
+q-rung orthopair fuzzy Sugeno–Weber power weighted average,Yes,Yes,Yes
+q-rung orthopair fuzzy Sugeno–Weber power weighted geometric operators,Yes,Yes,Yes
+q-rung orthopair fuzzy set,Yes,Yes,Yes
+quantile random forest (QRF),Yes,Yes,Yes
+quantitative content analysis,No,No,No
+quantitative structure-activity relationships,No,Yes,Yes
+quantum generalized normal distribution optimization,No,No,No
+quantum neural networks,Yes,Yes,Yes
+quantum optimization algorithm,No,Yes,Yes
+radial basis function neural networks,Yes,Yes,Yes
+radiomic features,No,Yes,Yes
+radiomics,No,Yes,Yes
+random cropping scheme,No,Yes,Yes
+random forest,Yes,Yes,Yes
+random forest (RF),Yes,Yes,Yes
+random forest (RF) algorithm,Yes,Yes,Yes
+random forest classifiers,Yes,Yes,Yes
+random forest method,Yes,Yes,Yes
+random forest regression,Yes,Yes,Yes
+random forest regressor,Yes,Yes,Yes
+random forest regressors (RFRs),Yes,Yes,Yes
+random forests (RF),Yes,Yes,Yes
+random network distillation,Yes,Yes,Yes
+random oversampling,No,Yes,Yes
+random path masking,No,No,Yes
+random undersampling,Yes,Yes,Yes
+random-forest,Yes,Yes,Yes
+randomized vector functional-link,Yes,Yes,Yes
+re-parameterization technique,Yes,Yes,Yes
+recommendation,No,Yes,Yes
+recommendation engines,No,Yes,Yes
+recurrent NN (RNN),Yes,Yes,Yes
+recurrent approaches,Yes,Yes,Yes
+recurrent connections,Yes,Yes,Yes
+recurrent neural network,Yes,Yes,Yes
+recurrent neural network (RNN),Yes,Yes,Yes
+recurrent neural networks (RNNs),Yes,Yes,Yes
+recursive feature elimination,Yes,Yes,Yes
+recursive feature elimination classifier,No,Yes,Yes
+recursive feature elimination method (RFEM),No,Yes,Yes
+recursive feature elimination with logistic regression,Yes,Yes,Yes
+recursive feature elimination with random forests,Yes,Yes,Yes
+reflexive thematic analysis (TA),No,No,No
+regional division mechanisms,No,No,No
+regression,Yes,Yes,Yes
+regression algorithms,Yes,Yes,Yes
+regression analysis,Yes,Yes,Yes
+regression model,Yes,Yes,Yes
+regression models,Yes,Yes,Yes
+regression-based frameworks,Yes,Yes,Yes
+regularization,No,Yes,Yes
+regularized random forest (RRF),Yes,Yes,Yes
+reinforcement learning,Yes,Yes,Yes
+reinforcement learning (RL),Yes,Yes,Yes
+reinforcement learning algorithms,Yes,Yes,Yes
+reinforcement learning approaches,Yes,Yes,Yes
+reinforcement learning model,Yes,Yes,Yes
+relevance vector machine (RVM),Yes,Yes,Yes
+representation learning,Yes,Yes,Yes
+representation-based methods,Yes,Yes,Yes
+repurposing,No,No,Yes
+resampling,Yes,Yes,Yes
+residual modeling,Yes,Yes,Yes
+response surface methodology (RSM),No,Yes,Yes
+restricted cubic spline (RCS) regression,No,Yes,Yes
+retrieval augmented generation,Yes,Yes,Yes
+retrieval augmented generation (RAG),Yes,Yes,Yes
+retrieval-augmented generation (RAG),Yes,Yes,Yes
+retrieval-augmented generation (RAG) model,Yes,Yes,Yes
+reweighting,Yes,Yes,Yes
+ridge,Yes,Yes,Yes
+ridge regression,Yes,Yes,Yes
+rigid regression,No,No,No
+risk-score model,No,Yes,Yes
+rule-based AI chatbot (Nemobot),No,Yes,Yes
+saliency,Yes,Yes,Yes
+saliency maps,Yes,Yes,Yes
+sampling strategy that reduces the number of training samples,No,Yes,Yes
+score prediction module,No,No,Yes
+segmentation,No,Yes,Yes
+segmented block bootstrapping,No,Yes,Yes
+self-attention mechanism,Yes,Yes,Yes
+self-attention mechanisms,Yes,Yes,Yes
+self-attention-based transformer model,Yes,Yes,Yes
+self-distillation,Yes,Yes,Yes
+self-play based simulated environment,No,Yes,Yes
+self-supervised ContrAstive Representation Learning,Yes,Yes,Yes
+self-supervised approach,Yes,Yes,Yes
+self-supervised auto-weighting,No,No,No
+self-supervised contrastive learning (SSCL),Yes,Yes,Yes
+self-supervised learning,Yes,Yes,Yes
+self-supervised learning (SSL)-based model using autoencoders,Yes,Yes,Yes
+self-supervised pre-training,Yes,Yes,Yes
+self-supervised regression model,Yes,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,Yes
+self-supervision,Yes,Yes,Yes
+semantic segmentation,Yes,Yes,Yes
+semi-supervised graph classification,Yes,Yes,Yes
+semi-supervised learning,Yes,Yes,Yes
+semi-supervised methods,Yes,Yes,Yes
+sensitivity analysis,No,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,Yes
+sensor fault and data recovery methods,No,No,No
+sentiment analysis,No,Yes,Yes
+separable wavelets,No,Yes,Yes
+sequence training,Yes,Yes,Yes
+sequential backward feature elimination,Yes,Yes,Yes
+sequential forward feature selection,Yes,Yes,Yes
+sequential forward search,Yes,Yes,Yes
+sequential latent Transformer (SLT),No,No,No
+sequential models for planning and policy optimization,Yes,Yes,Yes
+sequential turning point detection method (STPD),No,No,No
+shallow learning models,Yes,Yes,Yes
+shallow-level feature fusion (SFF) modules,No,Yes,Yes
+shap values,Yes,Yes,Yes
+shifted window-based multi-head self-attention (SW-MSA),Yes,Yes,Yes
+simple average,No,No,Yes
+simple cloze prompts,No,Yes,Yes
+simple layer stacking (SLS),No,No,No
+simple prefix prompts,No,No,Yes
+simpler models,No,No,No
+single-call greedy sampling strategy,No,Yes,Yes
+single-layer bidirectional LSTM model with a self-attention mechanism,Yes,Yes,Yes
+single-task learning,Yes,Yes,Yes
+slime mold algorithm,Yes,Yes,Yes
+social network analysis (SNA),No,Yes,Yes
+social network search algorithm,No,No,Yes
+soft actor-critic (SAC),Yes,Yes,Yes
+soft voting classifier,Yes,Yes,Yes
+soft voting ensemble learning,Yes,Yes,Yes
+sparse spectrum,Yes,Yes,Yes
+sparse spectrum techniques,Yes,Yes,Yes
+spatial attention,Yes,Yes,Yes
+spatial cluster analysis,No,Yes,Yes
+spatial context aware module (SCAM),No,No,No
+spatial context pyramid (SCP),Yes,No,Yes
+spatial convolution,Yes,Yes,Yes
+spatio-temporal models,Yes,Yes,Yes
+spatiotemporal refinement method,No,Yes,Yes
+spatiotemporal reliability methodology,No,No,No
+specialized NLP models trained on (bio)medical datasets,No,Yes,Yes
+spectral angle mapping,Yes,Yes,Yes
+speech recognition,No,Yes,Yes
+squeeze-and-excitation (SE),Yes,Yes,Yes
+stacked ANN meta-model,Yes,Yes,Yes
+stacked Artificial Neural Network (ANN) meta model,Yes,Yes,Yes
+stacked models (chained),Yes,Yes,Yes
+stacked models (parallel),No,Yes,Yes
+stacked sparse autoencoder (SAE) model,Yes,Yes,Yes
+stacking algorithms,Yes,Yes,Yes
+stacking ensemble,Yes,Yes,Yes
+stacking-based models,Yes,Yes,Yes
+standard deep learning methods,No,Yes,Yes
+state space models (SSMs),Yes,Yes,Yes
+state-of-the-art AI algorithm,No,No,No
+statistical debiasing methods,Yes,Yes,Yes
+statistical machine learning (SML),Yes,Yes,Yes
+statistical machine-learning methods,Yes,Yes,Yes
+statistical regression-based approaches,Yes,Yes,Yes
+stochastic gradient boosting,Yes,Yes,Yes
+stochastic simulation,No,Yes,Yes
+strategic prompt engineering,No,Yes,Yes
+structural equation modeling,No,Yes,No
+structural equation modeling (SEM),No,No,No
+structural equation modelling,No,Yes,Yes
+structured transition matrix network (STMN),No,No,No
+student-centered graph (SCG),No,No,No
+successor features,Yes,Yes,Yes
+super learner model,Yes,Yes,Yes
+supervised deep learning,Yes,Yes,Yes
+supervised learning,Yes,Yes,Yes
+supervised learning approach,Yes,Yes,Yes
+supervised machine learning technique,Yes,Yes,Yes
+supervised machine learning techniques,Yes,Yes,Yes
+supervised objective,No,Yes,Yes
+supervised pre-training,Yes,Yes,Yes
+supervised techniques for graph embedding learning,Yes,Yes,Yes
+support vector machine,Yes,Yes,Yes
+support vector machine (SVM),Yes,Yes,Yes
+support vector machine SMOTE (SVM-SMOTE),No,Yes,Yes
+support vector machines,Yes,Yes,Yes
+support vector machines (SVM),Yes,Yes,Yes
+support vector regression,Yes,Yes,Yes
+support vector regression (SVR),Yes,Yes,Yes
+support-vector machine (SVM),Yes,Yes,Yes
+surface random selection strategy,No,No,No
+swarm sparse decomposition method (MSSDM),No,No,No
+synthesis planning,No,Yes,Yes
+synthetic data generation using generative AI methods,Yes,Yes,Yes
+synthetic minority oversampling technique (SMOTE),Yes,Yes,Yes
+systematic literature review using the PRISMA approach,No,No,No
+tangent normalization,No,No,Yes
+target appearance representation disentanglement,No,Yes,Yes
+target network technique,Yes,Yes,Yes
+task-specific prompt framework,No,No,No
+task-specific prompts,No,Yes,Yes
+technique for order of preference by similarity to the ideal solution (TOPSIS),No,Yes,Yes
+technology acceptance model (TAM),No,Yes,No
+template matching,No,Yes,Yes
+temporal convolution,Yes,Yes,Yes
+temporal fusion Transformer (TFT),Yes,Yes,Yes
+temporal response function (TRF),Yes,Yes,Yes
+temporal shift module (TSM),Yes,Yes,Yes
+temporal-consistency optimization algorithm,No,Yes,Yes
+text-analysis,No,Yes,Yes
+text-davinci-003,Yes,Yes,Yes
+thematic clustering,No,Yes,Yes
+thermo-physiological model-based methods,No,Yes,Yes
+threading,No,No,No
+three-branch context aggregation (TCA) module,No,No,Yes
+three-residual blocks bottleneck,No,No,Yes
+three-residual blocks bottleneck architecture,Yes,Yes,Yes
+three-stage image quality prediction network,No,Yes,Yes
+three-way classifier with granular-ball neighborhood rough sets (3WC-GBNRS++),No,No,No
+three-way decision with neighborhood rough sets (3WDNRS),Yes,Yes,Yes
+time reconstruction as a joint optimization objective with contrastive learning,No,Yes,Yes
+time series analysis,No,Yes,Yes
+time series decomposition,No,Yes,Yes
+time series model,No,Yes,Yes
+time series regression modelling,No,Yes,Yes
+time–frequency representation based on MSSDM,No,Yes,Yes
+topic modeling,Yes,Yes,Yes
+toxicity classifiers,No,Yes,Yes
+traditional DRL-CFD framework,No,Yes,Yes
+traditional IBs,No,No,No
+traditional approaches for object detection,No,No,Yes
+traditional deep learning models,No,Yes,Yes
+traditional machine learning,No,Yes,Yes
+traditional machine learning models,No,Yes,Yes
+"traditional methodologies for detection of vehicles, pedestrians, and road lanes",No,Yes,No
+train-test technique,No,Yes,Yes
+training adaptation and regularization,No,Yes,Yes
+training advanced locomotion skills,No,No,Yes
+training from scratch,No,Yes,Yes
+transfer learning,Yes,Yes,Yes
+transfer learning algorithm,Yes,Yes,Yes
+transfer learning approach,Yes,Yes,Yes
+transfer learning framework,Yes,Yes,Yes
+transfer learning models,Yes,Yes,Yes
+transfer learning strategies,Yes,Yes,Yes
+transformer (TF),Yes,Yes,Yes
+transformer architecture,Yes,Yes,Yes
+transformer methods,Yes,Yes,Yes
+transformer module,Yes,Yes,Yes
+transformer networks,Yes,Yes,Yes
+transformer neural networks,Yes,Yes,Yes
+transformer-based architecture,Yes,Yes,Yes
+transformer-based cross-modal planner,No,Yes,Yes
+transformer-based language model using an attention mechanism,Yes,Yes,Yes
+transformer-based large language models (LLMs),Yes,Yes,Yes
+transformer-based model,Yes,Yes,Yes
+transformer-based models,Yes,Yes,Yes
+transformer-based pipeline,No,Yes,Yes
+transformers,Yes,Yes,Yes
+transient search optimization algorithm,No,No,No
+tree-based ensemble machine learning models,Yes,Yes,Yes
+trend analysis and anomaly detection,No,Yes,Yes
+trial-and-error heuristic,No,No,Yes
+triplet contrastive representation learning (TCRL),No,No,Yes
+triplet loss function,Yes,Yes,Yes
+tumor segmentation,No,Yes,No
+tunicate swarm algorithm (TSA),Yes,No,No
+two-layer feed-forward back-propagation artificial neural network,Yes,Yes,Yes
+two-layer hierarchical attention,Yes,Yes,Yes
+two-stage fuzzy mathematical model,No,Yes,Yes
+two-step feature selection approach,No,Yes,Yes
+uncertainty quantification methods,No,Yes,Yes
+under sampling clustering oversampling method (USCOM),No,No,No
+undersampling,Yes,Yes,Yes
+univariate cox-proportional hazard model,No,Yes,Yes
+unsupervised clustering algorithm,Yes,Yes,Yes
+unsupervised learning,Yes,Yes,Yes
+unsupervised machine learning,Yes,Yes,Yes
+unsupervised methods,Yes,Yes,Yes
+unsupervised techniques for graph embedding learning,Yes,Yes,Yes
+use of human feedback,Yes,Yes,Yes
+user modeling,No,Yes,Yes
+value decomposition network,Yes,Yes,No
+variable deep neural network method,No,No,No
+variance thresholding,Yes,Yes,Yes
+variance-based structural equation modelling,No,Yes,Yes
+vibration-based strategies,No,No,Yes
+virtual machine algorithms,No,Error: 529 Server Error:  for url: https://api.anthropic.com/v1/messages,No
+virtual screening,No,Yes,Yes
+vision Transformers,Yes,Yes,Yes
+vision transformer,Yes,Yes,Yes
+vision transformer (ViT) models,Yes,Yes,Yes
+vision transformer (Vit),Yes,Yes,Yes
+vision transformer-based models,Yes,Yes,Yes
+vision transformers,Yes,Yes,Yes
+vision transformers (ViT),Yes,Yes,Yes
+vision transformers (ViTs),Yes,Yes,Yes
+vision-language models,Yes,Yes,Yes
+vision–language foundation model,Yes,Yes,Yes
+visual adversarial examples,No,Yes,Yes
+voice recognition,No,Yes,Yes
+voting ensemble,Yes,Yes,Yes
+voting ensemble classifier,Yes,Yes,Yes
+voting technique,Yes,Yes,Yes
+wavelet coherence,No,Yes,Yes
+wavelet-based causality,No,Yes,Yes
+weight averaging,Yes,Yes,Yes
+weighted circular binary segmentation,No,No,No
+weighted distance measures for the Pythagorean fuzzy set (PFS),No,Yes,Yes
+weighted gray technique for order preference by similarity to an ideal solution (TOPSIS) model,No,Yes,Yes
+weighted regularization cluster contrastive loss (WRCCL),No,No,No
+whale optimization algorithm (WOA),Yes,Yes,Yes
+wide-neural network classifier,Yes,Yes,Yes
+zero-shot approaches,Yes,Yes,Yes
+zero-shot learning,Yes,Yes,Yes
+zero-shot prompting,Yes,Yes,Yes
+zero-shot sequential action prediction,Yes,Yes,Yes
+zero‐shot learning,Yes,Yes,Yes
+ℓ1-regularized sparse modeling,Yes,Yes,Yes
