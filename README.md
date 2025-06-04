@@ -29,7 +29,7 @@ Phase 2c: Filtering and Final Output Preparation
 - Cleans tagged methods (`<method>...</method>`) into structured Python lists.
 - Saves the resulting dataset for Phase 3 summarization and downstream recommendation models.
 
-Phase 3: Extract Masked Summaries
+Phase 3a: Extract Masked Summaries
 - Extracts the *research idea* and *objective* from abstracts.
 - Removes all references to computational techniques.
 - OpenAI GPT is used for structured prompt-response extraction.
@@ -109,27 +109,11 @@ python phase4_recommend_few_shot.py
 
 
 
-## Outputs
-- All results saved as CSVs grouped by:
-  - **Model** (claude, llama3, etc.)
-  - **Domain** (medicine, environment, etc.)
-  - **Shot setting** (zero, zero-CoT, few3, few5)
-- Each row includes:
-  - Ground truth methods
-  - Cleaned summary
-  - Recommended methods
-
-
-
 ## Contributing
 Pull requests are welcome! Please make sure to:
 - Follow the modular structure
 - Document changes clearly
 - Include evaluation scripts if possible
-
-
-## Contact
-For queries or collaboration: [YourName] at [YourEmail]
 
 
 
